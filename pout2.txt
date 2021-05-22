@@ -1,0 +1,1254 @@
+D:\Documents\plexer\Scripts\python.exe C:/Users/slarsen/my/plexer/plexer.py
+S:\MyMedia2\mkv2\
+['12 Years A Slave (2013)', '13 Hours The Secret Soldiers of Benghazi (2016)', 'A Bronx Tale (1993)', 'A Christmas Carol (1984)', 'A Close Shave (1995)', 'A Family Thing (1996)', 'A Fish Called Wanda (1988)', 'A Funny Thing Happened on the Way to the Forum (1966)', 'A Grand Day Out (1989)', 'A History of Violence (2005)', 'A Murder of Crows (1998)', 'A River Runs Through It (1992)', 'Absence of Malice (1981)', 'Adult Life Skills (2016)', 'After Earth (2013)', 'Aladdin (1992)', 'Alice Through the Looking Glass (2016)', "All the President's Men (1976)", 'Almost Christmas (2016)', 'Amadeus (1984)', 'American Graffiti (1973)', 'American History X (1998)', 'American Hustle (2013)', 'American President, The (1995)', 'American Sniper (2014)', 'Anatomy of a Murder (1959)', 'Angels & Demons (2009)', 'Animal Crackers (1930)', 'Animal House (1978)', 'Ant-Man (2015)', 'Ant-Man and the Wasp (2018)', 'Apollo 13 (1995)', 'Argo (2012)', 'Arrival (2016)', 'As Good As It Gets (1997)', 'Austin Powers in Goldmember (2002)', 'Austin Powers International Man of Mystery (1997)', 'Austin Powers The Spy Who Shagged Me (1999)', 'Avatar (2009)', 'Avengers Age of Ultron (2015)', 'Avengers, The (2012)', 'Awakenings (1990)', 'Baby Driver (2017)', 'Bad Day at Black Rock (1955)', 'Bananas (1971)', 'Barbarians at the Gate (1993)', 'Barbershop The Next Cut (2016)', 'Barefoot in the Park (1967)', "Barney's Version (2010)", 'Basic Instinct (1992)', 'Batman v Superman Dawn of Justice (2016)', 'Being There (1979)', 'BFG, The (2016)', 'Bicycle Thieves (1948)', 'Big Kahuna, The (2000)', 'Big Short, The (2015)', 'Big Sleep, The (1946)', 'Biloxi Blues (1988)', 'Birdcage, The (1996)', 'Birdman (2014)', 'Birdman of Alcatraz (1962)', 'Black or White (2014)', 'Black Panther (2018)', 'Blade Runner (1982)', 'Blade Runner 2049 (2017)', 'Blazing Saddles (1974)', 'Blood Simple (1984)', 'Blue Jasmine (2013)', 'Blues Brothers, The (1980)', 'Body Double (1984)', 'Body Heat (1981)', 'Bonnie and Clyde (1967)', 'Born Yesterday (1950)', 'Bourne Supremacy, The (2004)', 'Boy Next Door, The (2015)', 'Boys Town (1938)', 'Braveheart (1995)', "Breakfast at Tiffany's (1961)", 'Brian Regan Standing Up (2007)', 'Brian Regan The Epitome of Hyperbole\xa0(2008)', 'Bridge of Spies (2015)', 'Brighton Beach Memoirs (1986)', 'Broadcast News (1987)', 'Broken Arrow (1996)', 'Brooklyn (2015)', 'Brothers Grimsby, The (2016)', 'Burnt (2015)', 'By the Sea (2015)', 'Caddyshack (1980)', 'Caine Mutiny, The (1954)', 'Capote (2005)', 'Captain America Civil War (2016)', 'Captain America The First Avenger (2011)', 'Captain Phillips (2013)', 'Casino (1995)', 'Catch Me If You Can (2002)', 'Charlie and the Chocolate Factory (2005)', 'Cheaper by the Dozen (2003)', 'Chevalier (2015)', 'Christmas Horror Story, A (2015)', 'Christmas in Connecticut (1945)', 'Christmas Story, A (1983)', 'Cinderella Man (2005)', 'Citizen Kane (1941)', 'Crash (2004)', 'Crimes and Misdemeanors (1989)', 'Daddy and Them (2001)', 'Darkest Hour (2017)', 'Despicable Me 2 (2013)', 'Django Unchained (2012)', 'Driving Miss Daisy\xa0(1989)', 'Duck Soup (1933)', 'East Of Eden (1955)', 'El Cantante (2006)', 'Fargo (1996)', 'Father Christmas (1991)', 'Field Of Dreams (1989)', 'Finding Nemo (2003)', 'Five Easy Pieces (1970)', 'Flawless (1999)', 'Flightplan (2005)', 'Flubber (1997)', 'Forrest Gump (1994)', 'Frank Lloyd Wright (1998)', 'Fury (2014)', 'Gangs of New York (2002)', 'George Carlin On Location Phoenix (1978)', 'George Carlin_Jammin in New York (1992)', 'Get On Up (2014)', 'Good Night and Good Luck (2005)', 'Goodfellas (1990)', 'Grease (1978)', 'Hair (1979)', 'Hairspray (2007)', 'Hamlet (1996)', 'Harry Potter Collection', 'Havana (1990)', 'Hercules (1997)', 'Home For The Holidays (1995)', 'Horse Feathers (1932)', 'Hot Shots! (1991)', 'Hot Shots! Part Deux (1993)', 'How to Eat Fried Worms (2006)', 'In Search of Mozart (2006)', 'Indiana Jones Kingdom of the Crystal Skull (2008)', 'Inherit the Wind (1960)', 'Interstellar (2014)', 'Iron Man (2008)', 'Its a Wonderful Life (1946)', 'Jarhead (2005)', 'Jaws (1975)', 'Jersey Boys (2014)', 'LAURELANDHARDY1', 'Lemony Snickets A Series of Unfortunate Events (2004)', 'Les Miserables (2012)', 'Life of Brian (1979)', 'Life Of Pi (2012)', 'Lincoln (2012)', 'Little Feat_Skin it Back (1977)', 'Love Actually (2003)', 'Magic Trip (2011)', 'Mamma Mia! (2008)', 'Man On Wire (2008)', 'Mark Twain (2001)', 'Mary Poppins (1964)', 'Meatballs (1979)', 'Meet the Parents (2000)', 'Megamind (2010)', 'Men in Black (1997)', 'Men in Black II (2002)', 'Men of Honor\xa0(2000)', 'Milk (2008)', 'Moneyball (2011)', 'Monkey Business (1931)', 'Monsters, Inc. (2001)', 'Monty Python and the Holy Grail (1975)', 'Mr Beans Holiday (2007)', 'Mr Hollands Opus (1995)', 'Mrs Doubtfire (1993)', 'Mulan (1998)', 'My Neighbor Totoro (1988)', 'Nanny McPhee (2005)', 'National Treasure Book of Secrets (2007)', 'Nebraska (2013)', 'Neil Young-Heart Of Gold (2006)', 'Night at the Museum Battle of the Smithsonian (2009)', 'Nobodys Fool (1994)', 'North by Northwest (1959)', "One Flew Over the Cuckoo's Nest (1975)", 'One-Eyed Jacks (1961)', 'Only the Brave (2017)', 'Open Season (2006)', 'Open Season Scared Silly (2015)', 'Our Town (1940)', 'Over the Hedge (2006)', 'Patch Adams (1998)', 'Paul Blart Mall Cop (2009)', 'Paul Simon_-_Youre the One (2000)', 'Pinocchio (1940)', "Pirates of the Caribbean Dead Man's Chest (2006)", 'Pirates of the Caribbean The Curse of the Black Pearl (2003)', 'Pirates4_On Stranger Tides (2011)', 'Pitch Perfect (2012)', 'Ponyo (2008)', 'Puss In Boots (2011)', 'Raging Bull (1980)', 'Remember the Titans (2000)', 'Robin Williams_Live on Broadway (2002)', 'Roxanne (1987)', 'Saturday Night Live - The Best Of Chris Farley (2000)', 'Saving Mr Banks (2013)', 'Seabiscuit (2003)', 'Secretariat (2010)', 'Sid And Nancy (1986)', 'Sisters (2015)', 'Slumdog Millionaire (2008)', 'Some Like It Hot (1959)', 'Spider-Man (2002)', 'Spider-Man 3 (2007)', 'SpongeBob Squarepants_-_Lost At Sea (2003)', 'Spy Kids 3 (2D)_ Game Over (2003)', 'St Vincent (2014)', 'Stand by Me (1986)', 'Star Wars Episode III - Revenge of the Sith (2005)', 'Stop Making Sense (1984)', 'Sunset Blvd (1950)', 'Terminator 2_-_Judgment Day (1991)', 'The Adventures Of Tintin (2011)', 'The Artist (2011)', 'The Best of Boris and Natasha Vol 1 (2005)', 'The Best of Ernie Kovacs (2000)', 'The Best of Fractured Fairy Tales Vol 1 (2005)', 'The Big Chill (1983)', 'The Big Lebowski (1998)', 'The Big Red One (1980)', 'The Big Sick (2017)', "The Bishop's Wife (1947)", 'The Bourne Identity (2002)', 'The Butler (2013)', 'The Campaign (2012)', 'The Celluloid Closet (1995)', 'The Cheap Detective (1978)', 'The Cider House Rules (1999)', 'The Cocoanuts (1929)', 'The Conspirator (2010)', 'The Constant Gardener (2005)', 'The Conversation (1974)', 'The Da Vinci Code (2006)', 'The Dark Knight (2008)', 'The Departed (2006)', 'The Family Man (2000)', 'The Fighter (2010)', 'The Fortune Cookie\xa0(1966)', 'The Fountain (2006)', 'The Godfather (1972)', 'The Gods Must Be Crazy (1980)', 'The Good Shepherd (2006)', 'The Goonies (1985)', 'The Great Gatsby (2013)', 'The Hangover (2009)', 'The Heartbreak Kid (1972)', 'The Help (2011)', 'The Hobbit The Desolation of Smaug (2013)', 'The Hunt for Red October (1990)', 'The Imitation Game (2014)', 'The Incredible Hulk (2008)', 'The Incredibles (2004)', 'The Informant! (2009)', 'The Jungle Book (1967)', 'The Last Detail (1973)', 'The Last Waltz (1978)', "The Lion King 2 Simba's Pride (1998)", 'The Little Mermaid (1989)', 'The Lord of the Rings Trilogy', 'The Manchurian Candidate (1962)', 'The Martian (2015)', 'The Matador (2005)', 'The Meaning of Life\xa0(1983)', 'The Polar Express (2004)', 'The Princess Bride (1987)', 'The Right Stuff (1983)', 'The Secret (2006)', 'The Snowman (1982)', 'The Social Network (2010)', 'The Soloist (2009)', 'The Town (2010)', 'The Verdict (1982)', 'The Walk (2015)', 'The Water Horse (2007)', 'The Wrong Trousers (1993)', 'Theory Of Everything (2014)', 'This Is Spinal Tap (1984)', 'Thomas Jefferson (1997)', 'Time Bandits (1981)', 'True Grit (2010)', 'True Lies (1994)', 'U Turn (1997)', 'Unbroken (2014)', 'Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)', 'W. (2008)', 'Wallace & Gromit The Curse of the Were-Rabbit (2005)', 'WC Fields_ 6 Short Films (2000)', 'West Side Story (1961)', 'Whats Up Tiger Lily (1966)', 'Whiplash (2014)', 'White House Down (2013)', "Willie Nelson - Live & Kickin' (2003)", 'Witness For The Prosecution (1957)', 'Wolf Of Wall Street (2013)']
+--------------------------------
+S:\MyMedia2\mkv2\12 Years A Slave (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\13 Hours The Secret Soldiers of Benghazi (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Bronx Tale (1993)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\A Bronx Tale (1993)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\A Bronx Tale (1993)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Christmas Carol (1984)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Close Shave (1995)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Family Thing (1996)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Fish Called Wanda (1988)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Funny Thing Happened on the Way to the Forum (1966)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Grand Day Out (1989)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A History of Violence (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A Murder of Crows (1998)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\A River Runs Through It (1992)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Absence of Malice (1981)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Adult Life Skills (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\After Earth (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Aladdin (1992)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Aladdin (1992)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Aladdin (1992)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Alice Through the Looking Glass (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\All the President's Men (1976)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Almost Christmas (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Amadeus (1984)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Amadeus (1984)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Amadeus (1984)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\American Graffiti (1973)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\American History X (1998)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\American History X (1998)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\American History X (1998)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\American Hustle (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\American President, The (1995)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\American Sniper (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Anatomy of a Murder (1959)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Angels & Demons (2009)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Animal Crackers (1930)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Animal House (1978)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Ant-Man (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Ant-Man and the Wasp (2018)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Apollo 13 (1995)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Apollo 13 (1995)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Apollo 13 (1995)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Argo (2012)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Arrival (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\As Good As It Gets (1997)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\As Good As It Gets (1997)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\As Good As It Gets (1997)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Austin Powers in Goldmember (2002)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Austin Powers International Man of Mystery (1997)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Austin Powers The Spy Who Shagged Me (1999)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Avatar (2009)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Avengers Age of Ultron (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Avengers, The (2012)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Awakenings (1990)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Baby Driver (2017)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Bad Day at Black Rock (1955)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Bananas (1971)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Barbarians at the Gate (1993)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Barbershop The Next Cut (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Barefoot in the Park (1967)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Barefoot in the Park (1967)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Barefoot in the Park (1967)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Barney's Version (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Basic Instinct (1992)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Batman v Superman Dawn of Justice (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Being There (1979)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\BFG, The (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Bicycle Thieves (1948)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Bicycle Thieves (1948)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Bicycle Thieves (1948)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Big Kahuna, The (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Big Short, The (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Big Sleep, The (1946)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Biloxi Blues (1988)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Birdcage, The (1996)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Birdman (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Birdman of Alcatraz (1962)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Black or White (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Black Panther (2018)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner (1982)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner (1982)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner (1982)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner 2049 (2017)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Blazing Saddles (1974)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Blood Simple (1984)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Blue Jasmine (2013)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Blue Jasmine (2013)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Blue Jasmine (2013)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Blues Brothers, The (1980)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Body Double (1984)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Body Heat (1981)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Bonnie and Clyde (1967)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Born Yesterday (1950)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Bourne Supremacy, The (2004)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Boy Next Door, The (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Boys Town (1938)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Braveheart (1995)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Breakfast at Tiffany's (1961)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Brian Regan Standing Up (2007)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Brian Regan The Epitome of Hyperbole (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Bridge of Spies (2015)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Bridge of Spies (2015)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Bridge of Spies (2015)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Brighton Beach Memoirs (1986)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Broadcast News (1987)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Broken Arrow (1996)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Brooklyn (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Brothers Grimsby, The (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Burnt (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\By the Sea (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Caddyshack (1980)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Caine Mutiny, The (1954)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Capote (2005)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Capote (2005)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Capote (2005)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Captain America Civil War (2016)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Captain America The First Avenger (2011)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Captain Phillips (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Casino (1995)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Casino (1995)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Casino (1995)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Catch Me If You Can (2002)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Catch Me If You Can (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Catch Me If You Can (2002)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Charlie and the Chocolate Factory (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Cheaper by the Dozen (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Chevalier (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Christmas Horror Story, A (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Christmas in Connecticut (1945)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Christmas Story, A (1983)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Cinderella Man (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Citizen Kane (1941)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Crash (2004)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Crimes and Misdemeanors (1989)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Daddy and Them (2001)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Darkest Hour (2017)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Despicable Me 2 (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Django Unchained (2012)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Django Unchained (2012)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Django Unchained (2012)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Driving Miss Daisy (1989)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Duck Soup (1933)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\East Of Eden (1955)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\El Cantante (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Fargo (1996)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Fargo (1996)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Fargo (1996)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Father Christmas (1991)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Field Of Dreams (1989)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Finding Nemo (2003)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Finding Nemo (2003)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Finding Nemo (2003)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Five Easy Pieces (1970)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Flawless (1999)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Flightplan (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Flubber (1997)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Forrest Gump (1994)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Forrest Gump (1994)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Forrest Gump (1994)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Frank Lloyd Wright (1998)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Fury (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Gangs of New York (2002)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Gangs of New York (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Gangs of New York (2002)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\George Carlin On Location Phoenix (1978)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\George Carlin_Jammin in New York (1992)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Get On Up (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Good Night and Good Luck (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Goodfellas (1990)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Grease (1978)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Hair (1979)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Hairspray (2007)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Hamlet (1996)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection
+['Harry Potter and the Chamber of Secrets (2002)', 'Harry Potter and the Goblet of Fire (2005)', 'Harry Potter and the Prisoner of Azkaban (2004)', 'Harry Potter and the Sorcerers Stone (2001)']
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Chamber of Secrets (2002)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Goblet of Fire (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Prisoner of Azkaban (2004)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Sorcerers Stone (2001)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Havana (1990)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Hercules (1997)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Home For The Holidays (1995)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Horse Feathers (1932)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Hot Shots! (1991)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Hot Shots! Part Deux (1993)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\How to Eat Fried Worms (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\In Search of Mozart (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Indiana Jones Kingdom of the Crystal Skull (2008)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Indiana Jones Kingdom of the Crystal Skull (2008)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Indiana Jones Kingdom of the Crystal Skull (2008)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Inherit the Wind (1960)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Interstellar (2014)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Interstellar (2014)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Interstellar (2014)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Iron Man (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Its a Wonderful Life (1946)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Jarhead (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Jaws (1975)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Jersey Boys (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\LAURELANDHARDY1
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Lemony Snickets A Series of Unfortunate Events (2004)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Les Miserables (2012)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Les Miserables (2012)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Les Miserables (2012)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Life of Brian (1979)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Life of Brian (1979)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Life of Brian (1979)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Life Of Pi (2012)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Lincoln (2012)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Little Feat_Skin it Back (1977)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Love Actually (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Magic Trip (2011)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Mamma Mia! (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Man On Wire (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Mark Twain (2001)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Mark Twain (2001)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Mark Twain (2001)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Mary Poppins (1964)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Meatballs (1979)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Meet the Parents (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Megamind (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black (1997)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black II (2002)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black II (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black II (2002)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Men of Honor (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Milk (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Moneyball (2011)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Monkey Business (1931)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Monsters, Inc. (2001)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Monsters, Inc. (2001)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Monsters, Inc. (2001)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Monty Python and the Holy Grail (1975)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Monty Python and the Holy Grail (1975)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Monty Python and the Holy Grail (1975)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Mr Beans Holiday (2007)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Mr Hollands Opus (1995)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Mrs Doubtfire (1993)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Mrs Doubtfire (1993)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Mrs Doubtfire (1993)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Mulan (1998)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\My Neighbor Totoro (1988)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\My Neighbor Totoro (1988)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\My Neighbor Totoro (1988)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Nanny McPhee (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\National Treasure Book of Secrets (2007)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\National Treasure Book of Secrets (2007)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\National Treasure Book of Secrets (2007)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Nebraska (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Neil Young-Heart Of Gold (2006)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Neil Young-Heart Of Gold (2006)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Neil Young-Heart Of Gold (2006)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Night at the Museum Battle of the Smithsonian (2009)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Nobodys Fool (1994)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Nobodys Fool (1994)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Nobodys Fool (1994)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\North by Northwest (1959)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\North by Northwest (1959)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\North by Northwest (1959)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\One Flew Over the Cuckoo's Nest (1975)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\One Flew Over the Cuckoo's Nest (1975)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\One Flew Over the Cuckoo's Nest (1975)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\One-Eyed Jacks (1961)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Only the Brave (2017)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Open Season (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Open Season Scared Silly (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Our Town (1940)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Over the Hedge (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Patch Adams (1998)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Paul Blart Mall Cop (2009)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Paul Simon_-_Youre the One (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Pinocchio (1940)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Pirates of the Caribbean Dead Man's Chest (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Pirates of the Caribbean The Curse of the Black Pearl (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Pirates4_On Stranger Tides (2011)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Pitch Perfect (2012)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Ponyo (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Puss In Boots (2011)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Raging Bull (1980)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Raging Bull (1980)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Raging Bull (1980)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Remember the Titans (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Robin Williams_Live on Broadway (2002)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Roxanne (1987)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Saturday Night Live - The Best Of Chris Farley (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Saving Mr Banks (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Seabiscuit (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Secretariat (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Sid And Nancy (1986)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Sid And Nancy (1986)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Sid And Nancy (1986)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Sisters (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Slumdog Millionaire (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Some Like It Hot (1959)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Some Like It Hot (1959)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Some Like It Hot (1959)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Spider-Man (2002)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Spider-Man 3 (2007)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\SpongeBob Squarepants_-_Lost At Sea (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Spy Kids 3 (2D)_ Game Over (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\St Vincent (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Stand by Me (1986)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Stand by Me (1986)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Stand by Me (1986)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Star Wars Episode III - Revenge of the Sith (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Stop Making Sense (1984)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Sunset Blvd (1950)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Terminator 2_-_Judgment Day (1991)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Adventures Of Tintin (2011)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Artist (2011)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Best of Boris and Natasha Vol 1 (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Best of Ernie Kovacs (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Best of Fractured Fairy Tales Vol 1 (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Big Chill (1983)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Big Lebowski (1998)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Big Lebowski (1998)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Big Lebowski (1998)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Big Red One (1980)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Big Sick (2017)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Bishop's Wife (1947)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Bourne Identity (2002)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Bourne Identity (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Bourne Identity (2002)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Butler (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Campaign (2012)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Celluloid Closet (1995)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Cheap Detective (1978)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Cheap Detective (1978)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Cheap Detective (1978)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Cider House Rules (1999)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Cocoanuts (1929)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Conspirator (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Constant Gardener (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Conversation (1974)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Da Vinci Code (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Dark Knight (2008)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Dark Knight (2008)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Dark Knight (2008)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Departed (2006)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Departed (2006)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Departed (2006)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Family Man (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Fighter (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Fortune Cookie (1966)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Fountain (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Godfather (1972)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Gods Must Be Crazy (1980)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Good Shepherd (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Goonies (1985)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Great Gatsby (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Hangover (2009)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Heartbreak Kid (1972)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Help (2011)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Help (2011)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Help (2011)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Hobbit The Desolation of Smaug (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Hunt for Red October (1990)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Imitation Game (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Incredible Hulk (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Incredibles (2004)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Informant! (2009)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Jungle Book (1967)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Last Detail (1973)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Last Waltz (1978)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Lion King 2 Simba's Pride (1998)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Little Mermaid (1989)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy
+['The Fellowship of the Ring (2001)', 'The Return of the King (2003)', 'The Two Towers (2002)']
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy\The Fellowship of the Ring (2001)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy\The Return of the King (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy\The Two Towers (2002)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Manchurian Candidate (1962)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Martian (2015)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Martian (2015)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Martian (2015)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Matador (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Meaning of Life (1983)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Polar Express (2004)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Princess Bride (1987)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\The Princess Bride (1987)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Princess Bride (1987)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Right Stuff (1983)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Secret (2006)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Snowman (1982)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Social Network (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Soloist (2009)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Town (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Verdict (1982)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Walk (2015)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Water Horse (2007)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Wrong Trousers (1993)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Theory Of Everything (2014)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\This Is Spinal Tap (1984)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Thomas Jefferson (1997)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Time Bandits (1981)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\True Grit (2010)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\True Lies (1994)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\U Turn (1997)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Unbroken (2014)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Unbroken (2014)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Unbroken (2014)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\W. (2008)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Wallace & Gromit The Curse of the Were-Rabbit (2005)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\WC Fields_ 6 Short Films (2000)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\West Side Story (1961)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\West Side Story (1961)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\West Side Story (1961)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Whats Up Tiger Lily (1966)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Whiplash (2014)
+['Plex Versions']
+--------------------------------
+S:\MyMedia2\mkv2\Whiplash (2014)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Whiplash (2014)\Plex Versions\Optimized for TV
+[]
+--------------------------------
+S:\MyMedia2\mkv2\White House Down (2013)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Willie Nelson - Live & Kickin' (2003)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Witness For The Prosecution (1957)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\Wolf Of Wall Street (2013)
+[]
+--------------------------------
+
+Process finished with exit code 0

@@ -1,0 +1,2393 @@
+S:\MyMedia2\mkv2\
+['12 Years A Slave (2013)', '13 Hours The Secret Soldiers of Benghazi (2016)', 'A Bronx Tale (1993)', 'A Christmas Carol (1984)', 'A Close Shave (1995)', 'A Family Thing (1996)', 'A Fish Called Wanda (1988)', 'A Funny Thing Happened on the Way to the Forum (1966)', 'A Grand Day Out (1989)', 'A History of Violence (2005)', 'A Murder of Crows (1998)', 'A River Runs Through It (1992)', 'Absence of Malice (1981)', 'Adult Life Skills (2016)', 'After Earth (2013)', 'Aladdin (1992)', 'Alice Through the Looking Glass (2016)', "All the President's Men (1976)", 'Almost Christmas (2016)', 'Amadeus (1984)', 'American Graffiti (1973)', 'American History X (1998)', 'American Hustle (2013)', 'American President, The (1995)', 'American Sniper (2014)', 'Anatomy of a Murder (1959)', 'Angels & Demons (2009)', 'Animal Crackers (1930)', 'Animal House (1978)', 'Ant-Man (2015)', 'Ant-Man and the Wasp (2018)', 'Apollo 13 (1995)', 'Argo (2012)', 'Arrival (2016)', 'As Good As It Gets (1997)', 'Austin Powers in Goldmember (2002)', 'Austin Powers International Man of Mystery (1997)', 'Austin Powers The Spy Who Shagged Me (1999)', 'Avatar (2009)', 'Avengers Age of Ultron (2015)', 'Avengers, The (2012)', 'Awakenings (1990)', 'Baby Driver (2017)', 'Bad Day at Black Rock (1955)', 'Bananas (1971)', 'Barbarians at the Gate (1993)', 'Barbershop The Next Cut (2016)', 'Barefoot in the Park (1967)', "Barney's Version (2010)", 'Basic Instinct (1992)', 'Batman v Superman Dawn of Justice (2016)', 'Being There (1979)', 'BFG, The (2016)', 'Bicycle Thieves (1948)', 'Big Kahuna, The (2000)', 'Big Short, The (2015)', 'Big Sleep, The (1946)', 'Biloxi Blues (1988)', 'Birdcage, The (1996)', 'Birdman (2014)', 'Birdman of Alcatraz (1962)', 'Black or White (2014)', 'Black Panther (2018)', 'Blade Runner (1982)', 'Blade Runner 2049 (2017)', 'Blazing Saddles (1974)', 'Blood Simple (1984)', 'Blue Jasmine (2013)', 'Blues Brothers, The (1980)', 'Body Double (1984)', 'Body Heat (1981)', 'Bonnie and Clyde (1967)', 'Born Yesterday (1950)', 'Bourne Supremacy, The (2004)', 'Boy Next Door, The (2015)', 'Boys Town (1938)', 'Braveheart (1995)', "Breakfast at Tiffany's (1961)", 'Brian Regan Standing Up (2007)', 'Brian Regan The Epitome of Hyperbole\xa0(2008)', 'Bridge of Spies (2015)', 'Brighton Beach Memoirs (1986)', 'Broadcast News (1987)', 'Broken Arrow (1996)', 'Brooklyn (2015)', 'Brothers Grimsby, The (2016)', 'Burnt (2015)', 'By the Sea (2015)', 'Caddyshack (1980)', 'Caine Mutiny, The (1954)', 'Capote (2005)', 'Captain America Civil War (2016)', 'Captain America The First Avenger (2011)', 'Captain Phillips (2013)', 'Casino (1995)', 'Catch Me If You Can (2002)', 'Charlie and the Chocolate Factory (2005)', 'Cheaper by the Dozen (2003)', 'Chevalier (2015)', 'Christmas Horror Story, A (2015)', 'Christmas in Connecticut (1945)', 'Christmas Story, A (1983)', 'Cinderella Man (2005)', 'Citizen Kane (1941)', 'Crash (2004)', 'Crimes and Misdemeanors (1989)', 'Daddy and Them (2001)', 'Darkest Hour (2017)', 'Despicable Me 2 (2013)', 'Django Unchained (2012)', 'Driving Miss Daisy\xa0(1989)', 'Duck Soup (1933)', 'East Of Eden (1955)', 'El Cantante (2006)', 'Fargo (1996)', 'Father Christmas (1991)', 'Field Of Dreams (1989)', 'Finding Nemo (2003)', 'Five Easy Pieces (1970)', 'Flawless (1999)', 'Flightplan (2005)', 'Flubber (1997)', 'Forrest Gump (1994)', 'Frank Lloyd Wright (1998)', 'Fury (2014)', 'Gangs of New York (2002)', 'George Carlin On Location Phoenix (1978)', 'George Carlin_Jammin in New York (1992)', 'Get On Up (2014)', 'Good Night and Good Luck (2005)', 'Goodfellas (1990)', 'Grease (1978)', 'Hair (1979)', 'Hairspray (2007)', 'Hamlet (1996)', 'Harry Potter Collection', 'Havana (1990)', 'Hercules (1997)', 'Home For The Holidays (1995)', 'Horse Feathers (1932)', 'Hot Shots! (1991)', 'Hot Shots! Part Deux (1993)', 'How to Eat Fried Worms (2006)', 'In Search of Mozart (2006)', 'Indiana Jones Kingdom of the Crystal Skull (2008)', 'Inherit the Wind (1960)', 'Interstellar (2014)', 'Iron Man (2008)', 'Its a Wonderful Life (1946)', 'Jarhead (2005)', 'Jaws (1975)', 'Jersey Boys (2014)', 'LAURELANDHARDY1', 'Lemony Snickets A Series of Unfortunate Events (2004)', 'Les Miserables (2012)', 'Life of Brian (1979)', 'Life Of Pi (2012)', 'Lincoln (2012)', 'Little Feat_Skin it Back (1977)', 'Love Actually (2003)', 'Magic Trip (2011)', 'Mamma Mia! (2008)', 'Man On Wire (2008)', 'Mark Twain (2001)', 'Mary Poppins (1964)', 'Meatballs (1979)', 'Meet the Parents (2000)', 'Megamind (2010)', 'Men in Black (1997)', 'Men in Black II (2002)', 'Men of Honor\xa0(2000)', 'Milk (2008)', 'Moneyball (2011)', 'Monkey Business (1931)', 'Monsters, Inc. (2001)', 'Monty Python and the Holy Grail (1975)', 'Mr Beans Holiday (2007)', 'Mr Hollands Opus (1995)', 'Mrs Doubtfire (1993)', 'Mulan (1998)', 'My Neighbor Totoro (1988)', 'Nanny McPhee (2005)', 'National Treasure Book of Secrets (2007)', 'Nebraska (2013)', 'Neil Young-Heart Of Gold (2006)', 'Night at the Museum Battle of the Smithsonian (2009)', 'Nobodys Fool (1994)', 'North by Northwest (1959)', "One Flew Over the Cuckoo's Nest (1975)", 'One-Eyed Jacks (1961)', 'Only the Brave (2017)', 'Open Season (2006)', 'Open Season Scared Silly (2015)', 'Our Town (1940)', 'Over the Hedge (2006)', 'Patch Adams (1998)', 'Paul Blart Mall Cop (2009)', 'Paul Simon_-_Youre the One (2000)', 'Pinocchio (1940)', "Pirates of the Caribbean Dead Man's Chest (2006)", 'Pirates of the Caribbean The Curse of the Black Pearl (2003)', 'Pirates4_On Stranger Tides (2011)', 'Pitch Perfect (2012)', 'Ponyo (2008)', 'Puss In Boots (2011)', 'Raging Bull (1980)', 'Remember the Titans (2000)', 'Robin Williams_Live on Broadway (2002)', 'Roxanne (1987)', 'Saturday Night Live - The Best Of Chris Farley (2000)', 'Saving Mr Banks (2013)', 'Seabiscuit (2003)', 'Secretariat (2010)', 'Sid And Nancy (1986)', 'Sisters (2015)', 'Slumdog Millionaire (2008)', 'Some Like It Hot (1959)', 'Spider-Man (2002)', 'Spider-Man 3 (2007)', 'SpongeBob Squarepants_-_Lost At Sea (2003)', 'Spy Kids 3 (2D)_ Game Over (2003)', 'St Vincent (2014)', 'Stand by Me (1986)', 'Star Wars Episode III - Revenge of the Sith (2005)', 'Stop Making Sense (1984)', 'Sunset Blvd (1950)', 'Terminator 2_-_Judgment Day (1991)', 'The Adventures Of Tintin (2011)', 'The Artist (2011)', 'The Best of Boris and Natasha Vol 1 (2005)', 'The Best of Ernie Kovacs (2000)', 'The Best of Fractured Fairy Tales Vol 1 (2005)', 'The Big Chill (1983)', 'The Big Lebowski (1998)', 'The Big Red One (1980)', 'The Big Sick (2017)', "The Bishop's Wife (1947)", 'The Bourne Identity (2002)', 'The Butler (2013)', 'The Campaign (2012)', 'The Celluloid Closet (1995)', 'The Cheap Detective (1978)', 'The Cider House Rules (1999)', 'The Cocoanuts (1929)', 'The Conspirator (2010)', 'The Constant Gardener (2005)', 'The Conversation (1974)', 'The Da Vinci Code (2006)', 'The Dark Knight (2008)', 'The Departed (2006)', 'The Family Man (2000)', 'The Fighter (2010)', 'The Fortune Cookie\xa0(1966)', 'The Fountain (2006)', 'The Godfather (1972)', 'The Gods Must Be Crazy (1980)', 'The Good Shepherd (2006)', 'The Goonies (1985)', 'The Great Gatsby (2013)', 'The Hangover (2009)', 'The Heartbreak Kid (1972)', 'The Help (2011)', 'The Hobbit The Desolation of Smaug (2013)', 'The Hunt for Red October (1990)', 'The Imitation Game (2014)', 'The Incredible Hulk (2008)', 'The Incredibles (2004)', 'The Informant! (2009)', 'The Jungle Book (1967)', 'The Last Detail (1973)', 'The Last Waltz (1978)', "The Lion King 2 Simba's Pride (1998)", 'The Little Mermaid (1989)', 'The Lord of the Rings Trilogy', 'The Manchurian Candidate (1962)', 'The Martian (2015)', 'The Matador (2005)', 'The Meaning of Life\xa0(1983)', 'The Polar Express (2004)', 'The Princess Bride (1987)', 'The Right Stuff (1983)', 'The Secret (2006)', 'The Snowman (1982)', 'The Social Network (2010)', 'The Soloist (2009)', 'The Town (2010)', 'The Verdict (1982)', 'The Walk (2015)', 'The Water Horse (2007)', 'The Wrong Trousers (1993)', 'Theory Of Everything (2014)', 'This Is Spinal Tap (1984)', 'Thomas Jefferson (1997)', 'Time Bandits (1981)', 'True Grit (2010)', 'True Lies (1994)', 'U Turn (1997)', 'Unbroken (2014)', 'Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)', 'W. (2008)', 'Wallace & Gromit The Curse of the Were-Rabbit (2005)', 'WC Fields_ 6 Short Films (2000)', 'West Side Story (1961)', 'Whats Up Tiger Lily (1966)', 'Whiplash (2014)', 'White House Down (2013)', "Willie Nelson - Live & Kickin' (2003)", 'Witness For The Prosecution (1957)', 'Wolf Of Wall Street (2013)']
+--------------------------------
+S:\MyMedia2\mkv2\12 Years A Slave (2013)
+[]
+12 Years A Slave (2013).mkv
+--------------------------------
+S:\MyMedia2\mkv2\13 Hours The Secret Soldiers of Benghazi (2016)
+[]
+13 Hours The Secret Soldiers of Benghazi (2016) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\A Bronx Tale (1993)
+['Plex Versions']
+A Bronx Tale (1993) WEBDL-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\A Bronx Tale (1993)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\A Bronx Tale (1993)\Plex Versions\Optimized for TV
+[]
+A Bronx Tale (1993).mp4
+--------------------------------
+S:\MyMedia2\mkv2\A Christmas Carol (1984)
+[]
+A Christmas Carol (1984) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\A Close Shave (1995)
+[]
+A Close Shave (1995) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\A Family Thing (1996)
+[]
+A Family Thing (1996) WEBRip-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\A Fish Called Wanda (1988)
+[]
+A Fish Called Wanda (1988).mkv
+--------------------------------
+S:\MyMedia2\mkv2\A Funny Thing Happened on the Way to the Forum (1966)
+[]
+A Funny Thing Happened on the Way to the Forum (1966).mkv
+--------------------------------
+S:\MyMedia2\mkv2\A Grand Day Out (1989)
+[]
+A Grand Day Out (1989) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\A History of Violence (2005)
+[]
+A History of Violence (2005)-trailer.mkv
+A History of Violence (2005).mkv
+Acts of Violence (The Making of)-behindthescenes.mkv
+The Unmaking of Scene 44-behindthescenes.mkv
+too commercial for cannes-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\A Murder of Crows (1998)
+[]
+A Murder of Crows (1998) WEBDL-720p.mkv
+A Murder of Crows-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\A River Runs Through It (1992)
+[]
+A River Runs Through It (1992).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Absence of Malice (1981)
+[]
+Absence of Malice (1981) - widescreen.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Adult Life Skills (2016)
+[]
+Adult Life Skills (2016) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\After Earth (2013)
+[]
+After Earth (2013) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Aladdin (1992)
+['Plex Versions']
+Aladdin (1992) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Aladdin (1992)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Aladdin (1992)\Plex Versions\Optimized for TV
+[]
+Aladdin (1992).24631.eng.srt
+Aladdin (1992).24632.eng.srt
+Aladdin (1992).24633.eng.srt
+Aladdin (1992).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Alice Through the Looking Glass (2016)
+[]
+Alice Through the Looking Glass (2016) BR-Rip Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\All the President's Men (1976)
+[]
+All the President's Men (1976) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Almost Christmas (2016)
+[]
+Almost Christmas (2016) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Amadeus (1984)
+['Plex Versions']
+Amadeus (1984).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Amadeus (1984)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Amadeus (1984)\Plex Versions\Optimized for TV
+[]
+Amadeus (1984).24528.eng.srt
+Amadeus (1984).mp4
+--------------------------------
+S:\MyMedia2\mkv2\American Graffiti (1973)
+[]
+American Graffiti (1973).mkv
+--------------------------------
+S:\MyMedia2\mkv2\American History X (1998)
+['Plex Versions']
+American History X (1998) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\American History X (1998)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\American History X (1998)\Plex Versions\Optimized for TV
+[]
+American History X (1998).24598.eng.srt
+American History X (1998).mp4
+--------------------------------
+S:\MyMedia2\mkv2\American Hustle (2013)
+[]
+American Hustle (2013).mkv
+--------------------------------
+S:\MyMedia2\mkv2\American President, The (1995)
+[]
+The American President (1995) 720p Blu-ray.mkv
+The American President (1995) 720p Blu-ray.sub
+--------------------------------
+S:\MyMedia2\mkv2\American Sniper (2014)
+[]
+American Sniper (2014) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Anatomy of a Murder (1959)
+[]
+Anatomy of a Murder (1959).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Angels & Demons (2009)
+[]
+Angels & Demons (2009) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Animal Crackers (1930)
+[]
+Animal Crackers (1930).mkv
+Animal Crackers-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Animal House (1978)
+[]
+Animal House (1978) BR-Rip Blu-ray.avi
+--------------------------------
+S:\MyMedia2\mkv2\Ant-Man (2015)
+[]
+Ant-Man (2015) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Ant-Man and the Wasp (2018)
+[]
+Ant-Man and the Wasp (2018) 720p Blu-ray cd1.mkv
+Ant-Man and the Wasp (2018) 720p Blu-ray cd2.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Apollo 13 (1995)
+['Plex Versions']
+Apollo 13 (1995) Bluray-480p.mkv
+Lost Moon (1hr Documentary)-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Apollo 13 (1995)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Apollo 13 (1995)\Plex Versions\Optimized for TV
+[]
+Apollo 13 (1995).54154.eng.srt
+Apollo 13 (1995).54155.eng.srt
+Apollo 13 (1995).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Argo (2012)
+[]
+Argo (2012) - Behind The Scenes-behindthescenes.mkv
+Argo (2012).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Arrival (2016)
+[]
+Arrival (2016) 720p Blu-ray.idx
+Arrival (2016) 720p Blu-ray.mkv
+Arrival (2016) 720p Blu-ray.sub
+--------------------------------
+S:\MyMedia2\mkv2\As Good As It Gets (1997)
+['Plex Versions']
+As Good as It Gets (1997) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\As Good As It Gets (1997)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\As Good As It Gets (1997)\Plex Versions\Optimized for TV
+[]
+As Good as It Gets (1997).49591.ita.srt
+As Good as It Gets (1997).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Austin Powers in Goldmember (2002)
+[]
+Austin Powers in Goldmember (2002) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Austin Powers International Man of Mystery (1997)
+[]
+Austin Powers International Man of Mystery (1997) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Austin Powers The Spy Who Shagged Me (1999)
+[]
+Austin Powers The Spy Who Shagged Me (1999) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Avatar (2009)
+[]
+Avatar (2009) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Avengers Age of Ultron (2015)
+[]
+Avengers Age of Ultron (2015) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Avengers, The (2012)
+[]
+The Avengers (2012) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Awakenings (1990)
+[]
+Awakenings (1990) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Baby Driver (2017)
+[]
+Baby Driver (2017) BR-Rip.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Bad Day at Black Rock (1955)
+[]
+Bad Day at Black Rock (1955) BR-Rip Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Bananas (1971)
+[]
+Bananas (1971) DVD-Rip.avi
+--------------------------------
+S:\MyMedia2\mkv2\Barbarians at the Gate (1993)
+[]
+Barbarians at the Gate (1993).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Barbershop The Next Cut (2016)
+[]
+Barbershop The Next Cut (2016) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Barefoot in the Park (1967)
+['Plex Versions']
+Barefoot in the Park (1967) Bluray-480p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Barefoot in the Park (1967)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Barefoot in the Park (1967)\Plex Versions\Optimized for TV
+[]
+Barefoot in the Park (1967).25481.eng.srt
+Barefoot in the Park (1967).25482.eng.srt
+Barefoot in the Park (1967).25483.fre.srt
+Barefoot in the Park (1967).25484.ger.srt
+Barefoot in the Park (1967).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Barney's Version (2010)
+[]
+Barney's Version (2010) 720p Blu-ray cd1.orig.txt
+Barney's Version (2010) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Basic Instinct (1992)
+[]
+Basic Instinct (1992) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Batman v Superman Dawn of Justice (2016)
+[]
+Batman v Superman Dawn of Justice (2016) 1080p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Being There (1979)
+[]
+Being There (1979) 720p Blu-ray.wmv
+--------------------------------
+S:\MyMedia2\mkv2\BFG, The (2016)
+[]
+The BFG (2016) 720p Blu-ray.en.sub
+The BFG (2016) 720p Blu-ray.idx
+The BFG (2016) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Bicycle Thieves (1948)
+['Plex Versions']
+Bicycle Thieves (1948) 720p Blu-ray cd1.orig.txt
+Bicycle Thieves (1948) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Bicycle Thieves (1948)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Bicycle Thieves (1948)\Plex Versions\Optimized for TV
+[]
+Bicycle Thieves (1948).24628.eng.srt
+Bicycle Thieves (1948).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Big Kahuna, The (2000)
+[]
+The Big Kahuna (2000) DVD-Rip DVD.avi
+The Big Kahuna (2000) DVD-Rip DVD.idx
+The Big Kahuna (2000) DVD-Rip DVD.sub
+--------------------------------
+S:\MyMedia2\mkv2\Big Short, The (2015)
+[]
+The Big Short (2015) BR-Rip cd2.orig.txt
+The Big Short (2015) BR-Rip.avi
+The Big Short (2015) BR-Rip.srt
+--------------------------------
+S:\MyMedia2\mkv2\Big Sleep, The (1946)
+[]
+The Big Sleep (1946) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Biloxi Blues (1988)
+[]
+Biloxi Blues (1988).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Birdcage, The (1996)
+[]
+The Birdcage (1996) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Birdman (2014)
+[]
+Birdman (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Birdman of Alcatraz (1962)
+[]
+Birdman of Alcatraz (1962) BR-Rip cd1.mpg
+Birdman of Alcatraz (1962) BR-Rip cd2.mpg
+Birdman of Alcatraz (1962) BR-Rip cd3.mpg
+--------------------------------
+S:\MyMedia2\mkv2\Black or White (2014)
+[]
+Black or White (2014) 720p Blu-ray.en.srt
+Black or White (2014) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Black Panther (2018)
+[]
+Black Panther (2018) 720p Blu-ray cd1.orig.txt
+Black Panther (2018) 720p Blu-ray cd2.orig.nfo
+Black Panther (2018) 720p Blu-ray.en.sub
+Black Panther (2018) 720p Blu-ray.idx
+Black Panther (2018) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner (1982)
+['Plex Versions']
+Blade Runner (1982) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner (1982)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner (1982)\Plex Versions\Optimized for TV
+[]
+Blade Runner (1982).24637.eng.srt
+Blade Runner (1982).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Blade Runner 2049 (2017)
+[]
+Blade Runner 2049 (2017) Bluray-2160p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Blazing Saddles (1974)
+[]
+Additional Scenes-behindthescenes.mkv
+An Intimate Portrait of Madeline Kahn-interview.mkv
+Back In The Saddle-behindthescenes.mkv
+Black Bart TV Pilot-behindthescenes.mkv
+Blazing Saddles (1974) Bluray-1080p.mkv
+Blazing Saddles-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Blood Simple (1984)
+[]
+Blood Simple (1984) Bluray-480p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Blue Jasmine (2013)
+['Plex Versions']
+Blue Jasmine (2013) WEBRip-720p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Blue Jasmine (2013)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Blue Jasmine (2013)\Plex Versions\Optimized for TV
+[]
+Blue Jasmine (2013).59968.eng.srt
+Blue Jasmine (2013).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Blues Brothers, The (1980)
+[]
+The Blues Brothers (1980) 720p Blu-ray.idx
+The Blues Brothers (1980) 720p Blu-ray.mkv
+The Blues Brothers (1980) 720p Blu-ray.sub
+--------------------------------
+S:\MyMedia2\mkv2\Body Double (1984)
+[]
+Body Double (1984) 720p Blu-ray cd1.orig.txt
+Body Double (1984) 720p Blu-ray.en.sub
+Body Double (1984) 720p Blu-ray.idx
+Body Double (1984) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Body Heat (1981)
+[]
+Body Heat (1981) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Bonnie and Clyde (1967)
+[]
+Bonnie and Clyde (1967) 720p Blu-ray cd2.orig.txt
+Bonnie and Clyde (1967) 720p Blu-ray.mkv
+Bonnie and Clyde (1967) 720p Blu-ray.srt
+--------------------------------
+S:\MyMedia2\mkv2\Born Yesterday (1950)
+[]
+Born Yesterday (1950) 1080p Blu-ray.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Bourne Supremacy, The (2004)
+[]
+The Bourne Supremacy (2004) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Boy Next Door, The (2015)
+[]
+The Boy Next Door (2015) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Boys Town (1938)
+[]
+Boys Town (1938) DVD.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Braveheart (1995)
+[]
+Braveheart (1995) 720p.mkv
+Braveheart (1995) 720p.srt
+--------------------------------
+S:\MyMedia2\mkv2\Breakfast at Tiffany's (1961)
+[]
+Audreys Letter to Tiffanys-behindthescenes.mkv
+Breakfast at Tiffany's (1961) Bluray-720p.mkv
+Brilliance In A Blue Box-behindthescenes.mkv
+Its So Audrey_A Style Icon-behindthescenes.mkv
+The Making of A Classic-behindthescenes.mkv
+Theatrical Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Brian Regan Standing Up (2007)
+[]
+Brian Regan Standing Up (2007) WEBDL-480p.avi
+--------------------------------
+S:\MyMedia2\mkv2\Brian Regan The Epitome of Hyperbole (2008)
+[]
+Brian Regan The Epitome of Hyperbole (2008).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Bridge of Spies (2015)
+['Plex Versions']
+Bridge of Spies (2015) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Bridge of Spies (2015)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Bridge of Spies (2015)\Plex Versions\Optimized for TV
+[]
+Bridge of Spies (2015).22333.srt
+Bridge of Spies (2015).22334.eng.srt
+Bridge of Spies (2015).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Brighton Beach Memoirs (1986)
+[]
+Brighton Beach Memoirs (1986) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Broadcast News (1987)
+[]
+Broadcast News (1987) Bluray-720p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Broken Arrow (1996)
+[]
+Broken Arrow (1996) Bluray-1080p.mkv
+Theatrical Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Brooklyn (2015)
+[]
+Brooklyn (2015) BR-Rip Blu-ray cd2.orig.txt
+Brooklyn (2015) BR-Rip Blu-ray.en.sub
+Brooklyn (2015) BR-Rip Blu-ray.idx
+Brooklyn (2015) BR-Rip Blu-ray.mp4
+Brooklyn (2015) BR-Rip Blu-ray.srt
+Brooklyn (2015) BR-Rip Blu-ray.srt.random-JB5M860F
+--------------------------------
+S:\MyMedia2\mkv2\Brothers Grimsby, The (2016)
+[]
+The Brothers Grimsby (2016) 1080p Blu-ray cd1.orig.txt
+The Brothers Grimsby (2016) 1080p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Burnt (2015)
+[]
+Burnt (2015) 720p Blu-ray.en.srt
+Burnt (2015) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\By the Sea (2015)
+[]
+By the Sea (2015) BR-Rip.mkv
+By the Sea (2015) BR-Rip.srt
+--------------------------------
+S:\MyMedia2\mkv2\Caddyshack (1980)
+[]
+Caddyshack (1980) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Caine Mutiny, The (1954)
+[]
+The Caine Mutiny (1954) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Capote (2005)
+['Plex Versions']
+Answered Prayers-interview.mkv
+Capote (2005) Bluray-480p.mkv
+Making Capote_Concept to Script-behindthescenes.mkv
+Making Capote_Defining A Style-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Capote (2005)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Capote (2005)\Plex Versions\Optimized for TV
+[]
+Capote (2005).22509.eng.srt
+Capote (2005).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Captain America Civil War (2016)
+[]
+Captain America-Civil War (2016) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Captain America The First Avenger (2011)
+[]
+Captain America The First Avenger (2011) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Captain Phillips (2013)
+[]
+Captain Phillips (2013) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Casino (1995)
+['Plex Versions']
+Casino (1995) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Casino (1995)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Casino (1995)\Plex Versions\Optimized for TV
+[]
+Casino (1995).24640.eng.srt
+Casino (1995).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Catch Me If You Can (2002)
+['Plex Versions']
+Catch Me If You Can (2002).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Catch Me If You Can (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Catch Me If You Can (2002)\Plex Versions\Optimized for TV
+[]
+Catch Me If You Can (2002).24577.eng.srt
+Catch Me If You Can (2002).24578.eng.srt
+Catch Me If You Can (2002).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Charlie and the Chocolate Factory (2005)
+[]
+Becoming Oompah Loompah-behindthescenes.mkv
+Charlie and the Chocolate Factory (2005) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Cheaper by the Dozen (2003)
+[]
+Cheaper by the Dozen (2003).mkv
+The Making Of-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Chevalier (2015)
+[]
+Chevalier (2015) 1080p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Christmas Horror Story, A (2015)
+[]
+A Christmas Horror Story (2015) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Christmas in Connecticut (1945)
+[]
+Christmas in Connecticut (1945) 720p Blu-ray.mkv
+Christmas in Connecticut (1945) 720p Blu-ray.sub
+--------------------------------
+S:\MyMedia2\mkv2\Christmas Story, A (1983)
+[]
+A Christmas Story (1983) 720p Blu-ray.mkv
+A Christmas Story (1983) 720p Blu-ray.srt
+--------------------------------
+S:\MyMedia2\mkv2\Cinderella Man (2005)
+[]
+Cinderella Man (2005).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Citizen Kane (1941)
+[]
+Citizen Kane (1941).mkv
+Citizen Kane-trailer.mkv
+Robert Wise-interview.mkv
+Ruth Warrick-interview.mkv
+The Battle Over Citizen Cane-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Crash (2004)
+[]
+Crash (2004) Bluray-1080p.mkv
+Crash-trailer.mkv
+The Making of Crash-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Crimes and Misdemeanors (1989)
+[]
+Crimes and Misdemeanors (1989).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Daddy and Them (2001)
+[]
+Daddy and Them (2001) WEBDL-480p.1.en.srt
+Daddy and Them (2001) WEBDL-480p.2.en.srt
+Daddy and Them (2001) WEBDL-480p.avi
+The Making Of Daddy and Them-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Darkest Hour (2017)
+[]
+Darkest Hour (2017).mkv
+Darkest Hour -behindthescenes.mkv
+Darkest Hour-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Despicable Me 2 (2013)
+[]
+Despicable Me 2 (2013).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Django Unchained (2012)
+['Plex Versions']
+Django Unchained (2012).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Django Unchained (2012)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Django Unchained (2012)\Plex Versions\Optimized for TV
+[]
+Django Unchained (2012).24588.eng.srt
+Django Unchained (2012).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Driving Miss Daisy (1989)
+[]
+A Tribute to Jessica Tandy-behindthescenes.mkv
+Driving Miss Daisy-trailer.mkv
+Driving Miss Daisy (1989).mkv
+Miss Daisys Journey_Stage to Screen-behindthescenes.mkv
+The Making Of-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Duck Soup (1933)
+[]
+Duck Soup (1933).mkv
+--------------------------------
+S:\MyMedia2\mkv2\East Of Eden (1955)
+[]
+Art in Search of Life-behindthescenes.mkv
+East of Eden (1955).mkv
+Forever James Dean-behindthescenes.mkv
+Screen Tests-scene.mkv
+Wardrobe Tests-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\El Cantante (2006)
+[]
+El cantante (2006) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Fargo (1996)
+['Plex Versions']
+Cohen Bros on Charlie Rose-interview.mkv
+Fargo (1996).mkv
+Minnisota Nice_-_The Making of Fargo-behindthescenes.mkv
+Theatrical Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Fargo (1996)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Fargo (1996)\Plex Versions\Optimized for TV
+[]
+Fargo (1996).24601.eng.srt
+Fargo (1996).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Father Christmas (1991)
+[]
+Father Christmas (1991).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Field Of Dreams (1989)
+[]
+Behind The Scenes-behindthescenes.mkv
+Cast-interview.mkv
+Costner-interview.mkv
+Field of Dreams (1989) Bluray-1080p.mkv
+More Making Of-behindthescenes.mkv
+Special Features-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Finding Nemo (2003)
+['Plex Versions']
+Art Production-behindthescenes.mkv
+Cast in Clay-behindthescenes.mkv
+Finding Nemo (2003).mkv
+Making Nemo-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Finding Nemo (2003)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Finding Nemo (2003)\Plex Versions\Optimized for TV
+[]
+Finding Nemo (2003).24606.eng.srt
+Finding Nemo (2003).24607.eng.srt
+Finding Nemo (2003).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Five Easy Pieces (1970)
+[]
+Five Easy Pieces (1970).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Flawless (1999)
+[]
+Flawless (1999).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Flightplan (2005)
+[]
+Flightplan (2005) Bluray-1080p.mp4
+The Making of Flightplan-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Flubber (1997)
+[]
+Flubber (1997).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Forrest Gump (1994)
+['Plex Versions']
+Forrest Gump (1994).mkv
+Make Up-behindthescenes.mkv
+Production Design-behindthescenes.mkv
+Screen Tests-behindthescenes.mkv
+Sound Design for Rain Scenes-behindthescenes.mkv
+Sound Design on Run Forrest, Run!-behindthescenes.mkv
+Sound Design-behindthescenes.mkv
+The Making of Forrest Gump-behindthescenes.mkv
+Theatrical Trailer-trailer.mkv
+Visual Effects Deleted Scenes-deleted.mkv
+Visual Effects for Birth of A Nation-behindthescenes.mkv
+Visual Effects for DC Crowd Scene-behindthescenes.mkv
+Visual Effects for Dick Cavett Show-behindthescenes.mkv
+Visual Effects for George Wallace Scene-behindthescenes.mkv
+Visual Effects for Johnson Scene-behindthescenes.mkv
+Visual Effects for Lt. Dans Legs-behindthescenes.mkv
+Visual Effects for Running from the Truck-behindthescenes.mkv
+Visual Effects for Viet Nam-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Forrest Gump (1994)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Forrest Gump (1994)\Plex Versions\Optimized for TV
+[]
+Forrest Gump (1994).24563.eng.srt
+Forrest Gump (1994).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Frank Lloyd Wright (1998)
+[]
+Charlie Rose with Lynn Novick, Ken Burns-behindthescenes.mkv
+Frank Lloyd Wright (1998) - pt1.mkv
+Frank Lloyd Wright (1998) - pt2.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Fury (2014)
+[]
+Fury (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Gangs of New York (2002)
+['Plex Versions']
+Costume Design-behindthescenes.mkv
+Exploring the Sets with Scorsese-behindthescenes.mkv
+Gangs of New York (2002) - disc1.mkv
+Gangs of New York (2002) Bluray-480p.avi
+Gangs of New York (2002) Bluray-480p.srt
+Gangs of New York-trailer.mkv
+Teaser-trailer.mkv
+The History of Five pointes-behindthescenes.mkv
+The Making Of-behindthescenes.mkv
+U2 Music Video-scene.mkv
+Uncovering The Real Gangs of New York-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Gangs of New York (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Gangs of New York (2002)\Plex Versions\Optimized for TV
+[]
+Gangs of New York (2002).58218.srt
+Gangs of New York (2002).mp4
+--------------------------------
+S:\MyMedia2\mkv2\George Carlin On Location Phoenix (1978)
+[]
+George Carlin On Location Phoenix (1978).mkv
+poster.jpg
+--------------------------------
+S:\MyMedia2\mkv2\George Carlin_Jammin in New York (1992)
+[]
+George Carlin_Jammin in New York (1992).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Get On Up (2014)
+[]
+Get on Up (2014) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Good Night and Good Luck (2005)
+[]
+Good Night and Good Luck (2005).mkv
+GOOD_NIGHT_AND_GOOD_LUCK_t01-scene.mkv
+GOOD_NIGHT_AND_GOOD_LUCK_t02-scene.mkv
+GOOD_NIGHT_AND_GOOD_LUCK_t03-scene.mkv
+GOOD_NIGHT_AND_GOOD_LUCK_t04-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Goodfellas (1990)
+[]
+Behind (No Sound)-interview.mkv
+Behind (Soundless)-behindthescenes.mkv
+Behind The Scenes-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Grease (1978)
+[]
+2002 Cast Party-behindthescenes.mkv
+Grease (1978) Bluray-720p.mkv
+Remembering Grease-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Hair (1979)
+[]
+cover.jpg
+Hair (1979).mkv
+poster.jpg
+--------------------------------
+S:\MyMedia2\mkv2\Hairspray (2007)
+[]
+Hairspray (2007).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Hamlet (1996)
+[]
+Hamlet (1996) Bluray-720p.mkv
+Hamlet 1-behindthescenes.mkv
+Hamlet 2-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection
+['Harry Potter and the Chamber of Secrets (2002)', 'Harry Potter and the Goblet of Fire (2005)', 'Harry Potter and the Prisoner of Azkaban (2004)', 'Harry Potter and the Sorcerers Stone (2001)']
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Chamber of Secrets (2002)
+[]
+Chamber of Secrets (2002).mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t00-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t01-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t02-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t03-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t04-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t05-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t06-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t07-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t08-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t09-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t10-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t11-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t12-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t13-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t14-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t15-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t16-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t17-scene.mkv
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS_t18-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Goblet of Fire (2005)
+[]
+Goblet of Fire (2005).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Prisoner of Azkaban (2004)
+[]
+Disc_One_POTTER_PRISONER_OF_AZKABAN_t01-scene.mkv
+Disc_One_POTTER_PRISONER_OF_AZKABAN_t02-scene.mkv
+Disc_One_POTTER_PRISONER_OF_AZKABAN_t03-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t00-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t01-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t02-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t03-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t04-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t05-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t06-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t07-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t08-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t09-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t10-scene.mkv
+HARRY_POTTER_PRISONER_OF_AZKABAN_t11-scene.mkv
+Prisoner of Azkaban (2004).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Harry Potter Collection\Harry Potter and the Sorcerers Stone (2001)
+[]
+Disc_One_POTTER_AND_THE_SORCERER'S_STONE_t01-scene.mkv
+HARRY_POTTER_AND_THE_SORCERER'S_STONE_t00-scene.mkv
+HARRY_POTTER_AND_THE_SORCERER'S_STONE_t01-scene.mkv
+HARRY_POTTER_AND_THE_SORCERER'S_STONE_t02-scene.mkv
+HARRY_POTTER_AND_THE_SORCERER'S_STONE_t03-scene.mkv
+Sorcerers Stone (2001).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Havana (1990)
+[]
+Havana (1990).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Hercules (1997)
+[]
+Hercules (1997).mkv
+title03-scene.mkv
+title04-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Home For The Holidays (1995)
+[]
+Home for the Holidays (1995) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Horse Feathers (1932)
+[]
+Horse Feathers (1932).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Hot Shots! (1991)
+[]
+Hot Shots! (1991) Bluray-720p.mkv
+Hot Shots!-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Hot Shots! Part Deux (1993)
+[]
+Hot Shots Part Deux-trailer.mkv
+Hot Shots! Part Deux (1993) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\How to Eat Fried Worms (2006)
+[]
+How to Eat Fried Worms (2006) WEBDL-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\In Search of Mozart (2006)
+[]
+Director Phil Grabsky-interview.mkv
+In Search of Mozart (2006).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Indiana Jones Kingdom of the Crystal Skull (2008)
+['Plex Versions']
+Indiana Jones and the Kingdom of the Crystal Skull (2008) WEBDL-1080p.da.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008) WEBDL-1080p.fi.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008) WEBDL-1080p.is.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008) WEBDL-1080p.mkv
+Indiana Jones and the Kingdom of the Crystal Skull (2008) WEBDL-1080p.no.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008) WEBDL-1080p.sv.srt
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Indiana Jones Kingdom of the Crystal Skull (2008)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Indiana Jones Kingdom of the Crystal Skull (2008)\Plex Versions\Optimized for TV
+[]
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54942.dan.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54943.nor.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54944.swe.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54945.fin.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54946.ice.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54947.dan.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54948.fin.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54949.ice.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54950.nor.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).54951.swe.srt
+Indiana Jones and the Kingdom of the Crystal Skull (2008).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Inherit the Wind (1960)
+[]
+Inherit the Wind (1960) Bluray-1080p.mkv
+Stanley Kramers Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Interstellar (2014)
+['Plex Versions']
+Interstellar (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Interstellar (2014)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Interstellar (2014)\Plex Versions\Optimized for TV
+[]
+Interstellar (2014).24610.eng.srt
+Interstellar (2014).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Iron Man (2008)
+[]
+Iron Man (2008).mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Its a Wonderful Life (1946)
+[]
+A Personal Remembrance with Frank Capra-interview.mkv
+The Making Of A Wonderful Life-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Jarhead (2005)
+[]
+Jarhead (2005).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Jaws (1975)
+[]
+Jaws (1975) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Jersey Boys (2014)
+[]
+Jersey Boys (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\LAURELANDHARDY1
+[]
+title00-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Lemony Snickets A Series of Unfortunate Events (2004)
+[]
+Lemony Snickets A Series of Unfortunate Events (2004).mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+Untitled Extra 07-behindthescenes.mkv
+Untitled Extra 08-behindthescenes.mkv
+Untitled Extra 09-behindthescenes.mkv
+Untitled Extra 10-behindthescenes.mkv
+Untitled Extra 11-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Les Miserables (2012)
+['Plex Versions']
+Les Misérables (2012) WEBDL-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Les Miserables (2012)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Les Miserables (2012)\Plex Versions\Optimized for TV
+[]
+Les Miserables (2012).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Life of Brian (1979)
+['Plex Versions']
+Life of Brian (1979).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Life of Brian (1979)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Life of Brian (1979)\Plex Versions\Optimized for TV
+[]
+Life of Brian (1979).24567.eng.srt
+Life of Brian (1979).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Life Of Pi (2012)
+[]
+Life Of Pi (2012).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Lincoln (2012)
+[]
+Lincoln (2012).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Little Feat_Skin it Back (1977)
+[]
+Little Feat_Skin it Back (1977).mkv
+poster.jpg
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+Untitled Extra 07-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Love Actually (2003)
+[]
+Love Actually (2003) Bluray-720p.mp4
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+Untitled Extra 07-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Magic Trip (2011)
+[]
+Audio of Keseys First Trip-interview.mkv
+Magic Trip (2011).mkv
+The Magic Trip-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Mamma Mia! (2008)
+[]
+Mamma Mia! (2008) Bluray-720p.mkv
+Mamma Mia! (2008) Bluray-720p.srt
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+Untitled Extra 07-behindthescenes.mkv
+Untitled Extra 08-behindthescenes.mkv
+Untitled Extra 09-behindthescenes.mkv
+Untitled Extra 10-behindthescenes.mkv
+Untitled Extra 11-behindthescenes.mkv
+Untitled Extra 12-behindthescenes.mkv
+Untitled Extra 13-behindthescenes.mkv
+Untitled Extra 14-behindthescenes.mkv
+Untitled Extra 15-behindthescenes.mkv
+Untitled Extra 16-behindthescenes.mkv
+Untitled Extra 17-behindthescenes.mkv
+Untitled Extra 18-behindthescenes.mkv
+Untitled Extra 19-behindthescenes.mkv
+Untitled Extra 20-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Man On Wire (2008)
+[]
+Man On Wire (2008) - Behind The Scenes-behindthescenes.mkv
+Man On Wire (2008).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Mark Twain (2001)
+['Plex Versions']
+Mark Twain (2001) - disc1.mkv
+Mark Twain (2001) - disc2.mkv
+Twain the Man-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Mark Twain (2001)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Mark Twain (2001)\Plex Versions\Optimized for TV
+[]
+Mark Twain (1900).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Mary Poppins (1964)
+[]
+A Little Love from Walt for Ya!-behindthescenes.mkv
+Making the Rooftops Scenese-behindthescenes.mkv
+Mary Poppins (1964).mkv
+More Making Of-behindthescenes.mkv
+Movie Magic-behindthescenes.mkv
+Never Before Scenes-behindthescenes.mkv
+Opening Night From the Red Carpet-interview.mkv
+Opening Party at Graumanns Chinese Theatre-behindthescenes.mkv
+The Cat That Looked At A King Featurette-scene.mkv
+The Making Of-behindthescenes.mkv
+Theatrical Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Meatballs (1979)
+[]
+Meatballs (1979) Bluray-1080p.mkv
+Summer Camp-behindthescenes.mkv
+The Making Of-interview.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Meet the Parents (2000)
+[]
+Bloopers-behindthescenes.mkv
+Extra Scenes-deleted.mkv
+Meet the Parents (2000).mkv
+The Making Of-behindthescenes.mkv
+Theatrical Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Megamind (2010)
+[]
+Megamind (2010) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black (1997)
+[]
+Men in Black (1997) Bluray-1080p.mkv
+Men_In_Black_t01-scene.mkv
+Men_In_Black_t02-scene.mkv
+Men_In_Black_t03-scene.mkv
+Men_In_Black_t04-scene.mkv
+Men_In_Black_t05-scene.mkv
+Men_In_Black_t06-scene.mkv
+Men_In_Black_t07-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black II (2002)
+['Plex Versions']
+Men in Black II (2002) WEBDL-1080p.da.srt
+Men in Black II (2002) WEBDL-1080p.fi.srt
+Men in Black II (2002) WEBDL-1080p.is.srt
+Men in Black II (2002) WEBDL-1080p.mkv
+Men in Black II (2002) WEBDL-1080p.no.srt
+Men in Black II (2002) WEBDL-1080p.sv.srt
+Men_In_Black_II_t01-scene.mkv
+Men_In_Black_II_t02-scene.mkv
+Men_In_Black_II_t03-scene.mkv
+Men_In_Black_II_t04-scene.mkv
+Men_In_Black_II_t05-scene.mkv
+Men_In_Black_II_t06-scene.mkv
+Men_In_Black_II_t07-scene.mkv
+Men_In_Black_II_t08-scene.mkv
+Men_In_Black_II_t09-scene.mkv
+Men_In_Black_II_t10-scene.mkv
+Men_In_Black_II_t11-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black II (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Men in Black II (2002)\Plex Versions\Optimized for TV
+[]
+Men in Black II (2002).54106.dan.srt
+Men in Black II (2002).54107.nor.srt
+Men in Black II (2002).54108.swe.srt
+Men in Black II (2002).54109.fin.srt
+Men in Black II (2002).54110.ice.srt
+Men in Black II (2002).54111.dan.srt
+Men in Black II (2002).54112.fin.srt
+Men in Black II (2002).54113.ice.srt
+Men in Black II (2002).54114.nor.srt
+Men in Black II (2002).54115.swe.srt
+Men in Black II (2002).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Men of Honor (2000)
+[]
+A Tribute to Carl Brashear-behindthescenes.mkv
+Deleted Scenes-deleted.mkv
+Men of Honor (2000).mkv
+Music Video_Win-behindthescenes.mkv
+Story Boards-behindthescenes.mkv
+The Making of Men Of Honor-behindthescenes.mkv
+Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Milk (2008)
+[]
+Gay March-behindthescenes.mkv
+Harvey Milk-behindthescenes.mkv
+Milk (2008).mkv
+Political Career-interview.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Moneyball (2011)
+[]
+Moneyball (2011) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Monkey Business (1931)
+[]
+Monkey Business (1931).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Monsters, Inc. (2001)
+['Plex Versions']
+Disc_One_01-scene.mkv
+Disc_One_02-scene.mkv
+Disc_One_03-scene.mkv
+Disc_One_04-scene.mkv
+Monsters, Inc. (2001).mkv
+title00-scene.mkv
+title01-scene.mkv
+title02-scene.mkv
+title03-scene.mkv
+title04-scene.mkv
+title05-scene.mkv
+title06-scene.mkv
+title07-scene.mkv
+title10-scene.mkv
+title11-scene.mkv
+title12-scene.mkv
+title13-scene.mkv
+title14-scene.mkv
+title15-scene.mkv
+title16-scene.mkv
+title17-scene.mkv
+title18-scene.mkv
+title19-scene.mkv
+title20-scene.mkv
+title21-scene.mkv
+title22-scene.mkv
+title23-scene.mkv
+title24-scene.mkv
+title25-scene.mkv
+title26-scene.mkv
+title27-scene.mkv
+title28-scene.mkv
+title29-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Monsters, Inc. (2001)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Monsters, Inc. (2001)\Plex Versions\Optimized for TV
+[]
+Monsters_ Inc_ (2001).24592.eng.srt
+Monsters_ Inc_ (2001).24593.eng.srt
+Monsters_ Inc_ (2001).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Monty Python and the Holy Grail (1975)
+['Plex Versions']
+Monty Python and the Holy Grail (1975).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Monty Python and the Holy Grail (1975)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Monty Python and the Holy Grail (1975)\Plex Versions\Optimized for TV
+[]
+Monty Python and the Holy Grail (1975).24570.eng.srt
+Monty Python and the Holy Grail (1975).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Mr Beans Holiday (2007)
+[]
+title00-scene.mkv
+title01-scene.mkv
+title02-scene.mkv
+title03-scene.mkv
+title04-scene.mkv
+title05-scene.mkv
+title06-scene.mkv
+title07-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Mr Hollands Opus (1995)
+[]
+Mr Hollands Opus (1995).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Mrs Doubtfire (1993)
+['Plex Versions']
+Extra Robin-deleted.mkv
+Mrs. Doubtfire (1993) DVD.avi
+--------------------------------
+S:\MyMedia2\mkv2\Mrs Doubtfire (1993)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Mrs Doubtfire (1993)\Plex Versions\Optimized for TV
+[]
+Mrs. Doubtfire (1993).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Mulan (1998)
+[]
+Mulan (1998).mkv
+title02-scene.mkv
+title04-scene.mkv
+title05-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\My Neighbor Totoro (1988)
+['Plex Versions']
+My Neighbor Totoro (1988).mkv
+--------------------------------
+S:\MyMedia2\mkv2\My Neighbor Totoro (1988)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\My Neighbor Totoro (1988)\Plex Versions\Optimized for TV
+[]
+My Neighbor Totoro (1988).24523.eng.srt
+My Neighbor Totoro (1988).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Nanny McPhee (2005)
+[]
+Nanny McPhee (2005).mkv
+--------------------------------
+S:\MyMedia2\mkv2\National Treasure Book of Secrets (2007)
+['Plex Versions']
+National Treasure Book of Secrets (2007) WEBDL-2160p.mkv
+National Treasure Book of Secrets (2007) WEBDL-2160p.nfo
+--------------------------------
+S:\MyMedia2\mkv2\National Treasure Book of Secrets (2007)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\National Treasure Book of Secrets (2007)\Plex Versions\Optimized for TV
+[]
+National Treasure_ Book of Secrets (2007).22346.eng.srt
+National Treasure_ Book of Secrets (2007).22347.dan.srt
+National Treasure_ Book of Secrets (2007).22348.spa.srt
+National Treasure_ Book of Secrets (2007).22349.fin.srt
+National Treasure_ Book of Secrets (2007).22350.fre.srt
+National Treasure_ Book of Secrets (2007).22351.fre.srt
+National Treasure_ Book of Secrets (2007).22352.dut.srt
+National Treasure_ Book of Secrets (2007).22353.nor.srt
+National Treasure_ Book of Secrets (2007).22354.por.srt
+National Treasure_ Book of Secrets (2007).22355.swe.srt
+National Treasure_ Book of Secrets (2007).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Nebraska (2013)
+[]
+Nebraska (2013).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Neil Young-Heart Of Gold (2006)
+['Plex Versions']
+He Was The King-behindthescenes.mkv
+Neil Young Heart of Gold (2006) WEBRip-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Neil Young-Heart Of Gold (2006)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Neil Young-Heart Of Gold (2006)\Plex Versions\Optimized for TV
+[]
+Neil.Young.Heart.Of.Gold.2006.1080p.WEBRip.x265-RARBG (2006).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Night at the Museum Battle of the Smithsonian (2009)
+[]
+Cherub Bootcamp-behindthescenes.mkv
+Deleted Scenes-deleted.mkv
+Hank Azaria Tests-behindthescenes.mkv
+Night at the Museum Battle of the Smithsonian (2009) Bluray-1080p.mkv
+Outtakes (Funny!)-behindthescenes.mkv
+The Making Of-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Nobodys Fool (1994)
+['Plex Versions']
+Nobody's Fool (1994) WEBDL-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Nobodys Fool (1994)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Nobodys Fool (1994)\Plex Versions\Optimized for TV
+[]
+Nobody's Fool (1994).54022.eng.srt
+Nobody's Fool (1994).mp4
+--------------------------------
+S:\MyMedia2\mkv2\North by Northwest (1959)
+['Plex Versions']
+Destination Hitchcock-behindthescenes.mkv
+Guided Tour with Alfred Hitchcock-trailer.mkv
+North by Northwest (1959).mkv
+--------------------------------
+S:\MyMedia2\mkv2\North by Northwest (1959)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\North by Northwest (1959)\Plex Versions\Optimized for TV
+[]
+North by Northwest (1959).24573.eng.srt
+North by Northwest (1959).mp4
+--------------------------------
+S:\MyMedia2\mkv2\One Flew Over the Cuckoo's Nest (1975)
+['Plex Versions']
+Chickens at a Peckin Part-deleted.mkv
+Extra Scenes-deleted.mkv
+First Group therapy Session-deleted.mkv
+One Flew Over the Cuckoo's Nest (1975).mkv
+The Making of One Flew Over the Cuckoo's Nest-behindthescenes.mkv
+Theatrical Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\One Flew Over the Cuckoo's Nest (1975)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\One Flew Over the Cuckoo's Nest (1975)\Plex Versions\Optimized for TV
+[]
+One Flew Over the Cuckoo's Nest (1975).24616.eng.srt
+One Flew Over the Cuckoo's Nest (1975).24617.eng.srt
+One Flew Over the Cuckoo's Nest (1975).mp4
+--------------------------------
+S:\MyMedia2\mkv2\One-Eyed Jacks (1961)
+[]
+One-Eyed Jacks (1961) 720p Blu-ray.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Only the Brave (2017)
+[]
+Only the Brave (2017) WEBDL-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Open Season (2006)
+[]
+Open Season (2006) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Open Season Scared Silly (2015)
+[]
+Open Season Scared Silly (2015) 720p Blu-ray.mkv
+Open Season Scared Silly (2015) 720p Blu-ray.orig.txt
+--------------------------------
+S:\MyMedia2\mkv2\Our Town (1940)
+[]
+Our Town (1940) DVD-Rip DVD.avi
+--------------------------------
+S:\MyMedia2\mkv2\Over the Hedge (2006)
+[]
+Over the Hedge (2006) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Patch Adams (1998)
+[]
+Patch Adams (1998) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Paul Blart Mall Cop (2009)
+[]
+Paul Blart Mall Cop (2009).mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+Untitled Extra 07-behindthescenes.mkv
+Untitled Extra 08-behindthescenes.mkv
+Untitled Extra 09-behindthescenes.mkv
+Untitled Extra 10-behindthescenes.mkv
+Untitled Extra 11-behindthescenes.mkv
+Untitled Extra 12-behindthescenes.mkv
+Untitled Extra 13-behindthescenes.mkv
+Untitled Extra 14-behindthescenes.mkv
+Untitled Extra 15-behindthescenes.mkv
+Untitled Extra 16-behindthescenes.mkv
+Untitled Extra 17-behindthescenes.mkv
+Untitled Extra 18-behindthescenes.mkv
+Untitled Extra 19-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Paul Simon_-_Youre the One (2000)
+[]
+title00.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Pinocchio (1940)
+[]
+Pinocchio (1940) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Pirates of the Caribbean Dead Man's Chest (2006)
+[]
+Disc_One_01-scene.mkv
+Disc_One_02-scene.mkv
+Disc_One_03-scene.mkv
+Disc_One_04-scene.mkv
+Disc_One_05-scene.mkv
+title00-scene.mkv
+title01-scene.mkv
+title02-scene.mkv
+title03-scene.mkv
+title04-scene.mkv
+title05-scene.mkv
+title06-scene.mkv
+title07-scene.mkv
+title08-scene.mkv
+title09-scene.mkv
+title10-scene.mkv
+title11-scene.mkv
+title12-scene.mkv
+title13-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Pirates of the Caribbean The Curse of the Black Pearl (2003)
+[]
+title01-scene.mkv
+title02-scene.mkv
+title03-scene.mkv
+title04-scene.mkv
+title05-scene.mkv
+title06-scene.mkv
+title07-scene.mkv
+title08-scene.mkv
+title09-scene.mkv
+title10-scene.mkv
+title11-scene.mkv
+title12-scene.mkv
+title13-scene.mkv
+title14-scene.mkv
+title15-scene.mkv
+title16-scene.mkv
+title17-scene.mkv
+title18-scene.mkv
+title19-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Pirates4_On Stranger Tides (2011)
+[]
+POTC_On Stranger Tides (2011).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Pitch Perfect (2012)
+[]
+Pitch Perfect (2012).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Ponyo (2008)
+[]
+Ponyo (2008) WEBDL-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Puss In Boots (2011)
+[]
+Puss in Boots (2011) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Raging Bull (1980)
+['Plex Versions']
+Raging Bull (1980).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Raging Bull (1980)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Raging Bull (1980)\Plex Versions\Optimized for TV
+[]
+Raging Bull (1980).24542.eng.srt
+Raging Bull (1980).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Remember the Titans (2000)
+[]
+Even More Making of-behindthescenes.mkv
+More Making of-behindthescenes.mkv
+The Making of-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Robin Williams_Live on Broadway (2002)
+[]
+Robin Williams_Live on Broadway (2002).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Roxanne (1987)
+[]
+Roxanne (1987) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Saturday Night Live - The Best Of Chris Farley (2000)
+[]
+Saturday Night Live - The Best Of Chris Farley (2000).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Saving Mr Banks (2013)
+[]
+Saving Mr Banks (2013).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Seabiscuit (2003)
+[]
+Anatomy of a Movie Moment-behindthescenes.mkv
+Jeff Bridges On the Set Photographs-behindthescenes.mkv
+News On The Hoof_-_Newsreel Short-behindthescenes.mkv
+Radio Show Interview Part 1-interview.mkv
+Radio Show Interview Part 2-interview.mkv
+Radio Show Interview Part 3-interview.mkv
+Seabiscuit (2003).mkv
+Seabiscuit Part 1-scene.mkv
+Seabiscuit Part 2-scene.mkv
+Seabiscuit Part 3-scene.mkv
+Seabiscuit Racing Through History-behindthescenes.mkv
+The Making of Seabiscuit-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Secretariat (2010)
+[]
+Secretariat (2010).mkv
+Unltitled Extra 01-behindthescenes.mkv
+Unltitled Extra 02-behindthescenes.mkv
+Unltitled Extra 03-behindthescenes.mkv
+Unltitled Extra 04-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Sid And Nancy (1986)
+['Plex Versions']
+Sid & Nancy (1986) Bluray-480p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Sid And Nancy (1986)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Sid And Nancy (1986)\Plex Versions\Optimized for TV
+[]
+Sid and Nancy (1986).59069.eng.srt
+Sid and Nancy (1986).59070.eng.srt
+Sid and Nancy (1986).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Sisters (2015)
+[]
+Sisters (2015).mkv
+Sisters-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Slumdog Millionaire (2008)
+[]
+Slumdog Millionaire (2008).mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Some Like It Hot (1959)
+['Plex Versions']
+Some Like It Hot (1959).mkv
+The Gallery Tribute-behindthescenes.mkv
+Tony Curtis-interview.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Some Like It Hot (1959)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Some Like It Hot (1959)\Plex Versions\Optimized for TV
+[]
+Some Like It Hot (1959).24547.eng.srt
+Some Like It Hot (1959).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Spider-Man (2002)
+[]
+Spider-Man (2002) Bluray-1080p.mkv
+Spider-Man_t01-scene.mkv
+Spider-Man_t02-scene.mkv
+Spider-Man_t03-scene.mkv
+Spider-Man_t04-scene.mkv
+Spider-Man_t05-scene.mkv
+Spider-Man_t06-scene.mkv
+Spider-Man_t07-scene.mkv
+Spider-Man_t08-scene.mkv
+Spider-Man_t09-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Spider-Man 3 (2007)
+[]
+Bloopers-behindthescenes.mkv
+Spider-Man 3 (2007) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\SpongeBob Squarepants_-_Lost At Sea (2003)
+[]
+7 Life Strategies-behindthescenes.mkv
+Boating School-scene.mkv
+Bubble Buddy-scene.mkv
+Mermaidman and Barnicle Boy II-scene.mkv
+Planton!-scene.mkv
+poster.png
+Prehibernation Week-scene.mkv
+SpongeBob Squarepants_-_Lost At Sea (2003).mkv
+Storyboarding-behindthescenes.mkv
+Suds-scene.mkv
+The Chaperone-scene.mkv
+The Sponge Who Could Fly-scene.mkv
+Your Shoes Untied-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Spy Kids 3 (2D)_ Game Over (2003)
+[]
+Green Screen Effects-behindthescenes.mkv
+More Green Screen Effects-behindthescenes.mkv
+Spy Kids 3 (2D angle2 backup copy)-scene.mkv
+Spy Kids 3 (2D)_ Game Over (2003) - angle1.mkv
+Spy Kids 3 (Full 3D version)-scene.mkv
+The Making of SK3D-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\St Vincent (2014)
+[]
+St Vincent (2014) - Behind The Scenes-behindthescenes.mkv
+St Vincent (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Stand by Me (1986)
+['Plex Versions']
+Ben E King Music Video-scene.mkv
+Stand by Me (1986).mkv
+The Making Of Stand By Me-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Stand by Me (1986)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Stand by Me (1986)\Plex Versions\Optimized for TV
+[]
+Stand by Me (1986).24552.eng.srt
+Stand by Me (1986).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Star Wars Episode III - Revenge of the Sith (2005)
+[]
+Star Wars Episode III - Revenge of the Sith (2005) WEBDL-1080p.mkv
+Star Wars Episode III - Revenge of the Sith (2005) WEBDL-1080p.srt
+--------------------------------
+S:\MyMedia2\mkv2\Stop Making Sense (1984)
+[]
+Bonus Songs-behindthescenes.mkv
+Ghost in the Shell-behindthescenes.mkv
+Not Making Sense-interview.mkv
+Stop Making Sense (1984) Bluray-1080p.mkv
+Summary-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Sunset Blvd (1950)
+[]
+Sunset Blvd (1950).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Terminator 2_-_Judgment Day (1991)
+[]
+Misc Clips-behindthescenes.mkv
+Terminator 2_-_Judgment Day (1991) - larger.mkv
+The Rise of Visual Effect T2-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Adventures Of Tintin (2011)
+[]
+The Adventures Of Tintin (2011).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Artist (2011)
+[]
+The Artist (2011) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Best of Boris and Natasha Vol 1 (2005)
+[]
+Moosylvania - s05e56.mkv
+poster.jpg
+Pottsylvania Creeper - s05e41.mkv
+The Best of Boris and Natasha Vol 1 (2005).mkv
+Unltitled Extra 02-behindthescenes.mkv
+Unltitled Extra 03-behindthescenes.mkv
+Unltitled Extra 04-behindthescenes.mkv
+Unltitled Extra 05-behindthescenes.mkv
+Unltitled Extra 06-behindthescenes.mkv
+Unltitled Extra 07-behindthescenes.mkv
+Unltitled Extra 09-behindthescenes.mkv
+Unltitled Extra 10-behindthescenes.mkv
+Unltitled Extra 11-behindthescenes.mkv
+Unltitled Extra 12-behindthescenes.mkv
+Unltitled Extra 13-behindthescenes.mkv
+Unltitled Extra 14-behindthescenes.mkv
+Unltitled Extra 15-behindthescenes.mkv
+Unltitled Extra 16-behindthescenes.mkv
+Unltitled Extra 17-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Best of Ernie Kovacs (2000)
+[]
+poster.jpg
+The Best of Ernie Kovacs (2000) - disc1.mkv
+The Best of Ernie Kovacs (2000) - disc2.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Best of Fractured Fairy Tales Vol 1 (2005)
+[]
+Cinderella - s01e72.mkv
+Cinderella Returns - s02e37.mkv
+Leaping Beauty - s02e92.mkv
+Pinocchio - s01e122.mkv
+poster.jpeg
+poster.jpg
+Rapunzel - s01e02.mkv
+Ridinghoods Anonymous - s05e22.mkv
+Rumpelstiltskin - s01e37.mkv
+Rumpelstiltskin Returns - s02e87.mkv
+Sleeping Beauty - s01e117.mkv
+Snow White - s01e107.mkv
+The Best of Fractured Fairy Tales Vol 1 - Play All.mkv
+The Brave Little Tailor - s01e32.mkv
+The Enchanted Frog - s02e137.mkv
+The Magic Fish - s01e12.mkv
+The Pied Piper - s02e67.mkv
+The Ugly Duckling - s02e27.mkv
+Unltitled Extra 16-behindthescenes.mkv
+Unltitled Extra 17-behindthescenes.mkv
+Unltitled Extra 18-behindthescenes.mkv
+Unltitled Extra 19-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Big Chill (1983)
+[]
+15th Anniversary Reunion-behindthescenes.mkv
+The Big Chill (1983) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Big Lebowski (1998)
+['Plex Versions']
+Big-Lebowski-movie-poster.jpg
+Exclusive Intro!-behindthescenes.mkv
+Jeffs Photos-behindthescenes.mkv
+Making Of-interview.mkv
+Production Notes-behindthescenes.mkv
+tbl2.jpg
+The Big Lebowski (1998).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Big Lebowski (1998)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Big Lebowski (1998)\Plex Versions\Optimized for TV
+[]
+The Big Lebowski (1998).24533.eng.srt
+The Big Lebowski (1998).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Big Red One (1980)
+[]
+The Big Red One (1980) - 1080p.BluRay.DTS-HD.x264-BARC0DE.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Big Sick (2017)
+[]
+The Big Sick (2017) BR-Rip cd1.mp4
+The Big Sick (2017) BR-Rip cd2.mp4
+The Big Sick (2017) BR-Rip cd4.mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Bishop's Wife (1947)
+[]
+The Bishop's Wife (1947) Bluray-720p.1.en.srt
+The Bishop's Wife (1947) Bluray-720p.2.en.srt
+The Bishop's Wife (1947) Bluray-720p.mp4
+The Bishop's Wife (1947) Bluray-720p.sub
+--------------------------------
+S:\MyMedia2\mkv2\The Bourne Identity (2002)
+['Plex Versions']
+The Bourne Identity (2002) Bluray-2160p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Bourne Identity (2002)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Bourne Identity (2002)\Plex Versions\Optimized for TV
+[]
+The Bourne Identity (2002).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Butler (2013)
+[]
+The Butler (2013) - Behind The Scenes-behindthescenes.mkv
+The Butler (2013).mkv
+Unltitled Extra 02-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Campaign (2012)
+[]
+The Campaign (2012).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Celluloid Closet (1995)
+[]
+Special Edition Interviews-interview.mkv
+The Celluloid Closet (1995).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Cheap Detective (1978)
+['Plex Versions']
+The Cheap Detective (1978) - cd1.avi
+The Cheap Detective (1978) WEBRip-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Cheap Detective (1978)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Cheap Detective (1978)\Plex Versions\Optimized for TV
+[]
+The.Cheap.Detective.1978.1080p.WEBRip.x265-RARBG (1978).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Cider House Rules (1999)
+[]
+The Cider House Rules (1999) Bluray-720p.mkv
+The Cider House Rules (1999) Bluray-720p.srt
+--------------------------------
+S:\MyMedia2\mkv2\The Cocoanuts (1929)
+[]
+Groucho Marx-interview.mkv
+Harpo Marx-interview.mkv
+poster.jpg
+The Cocoanuts (1929).mkv
+WilliamMarx-interview.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Conspirator (2010)
+[]
+The Conspirator (2010).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Constant Gardener (2005)
+[]
+Anatomy of A Thriller_The Making Of-behindthescenes.mkv
+Deleted Scenes-deleted.mkv
+Embracing Africa_Filming in Kenya-behindthescenes.mkv
+Extended Scene-scene.mkv
+John LeCarre Page to Screen-behindthescenes.mkv
+The Constant Gardener (2005) Bluray-720p.mkv
+Theatrical Trailer-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Conversation (1974)
+[]
+--------------------------------
+S:\MyMedia2\mkv2\The Da Vinci Code (2006)
+[]
+The Da Vinci Code (2006).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Dark Knight (2008)
+['Plex Versions']
+The Dark Knight (2008).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Dark Knight (2008)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Dark Knight (2008)\Plex Versions\Optimized for TV
+[]
+The Dark Knight (2008).24560.eng.srt
+The Dark Knight (2008).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Departed (2006)
+['Plex Versions']
+The Departed (2006).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Departed (2006)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Departed (2006)\Plex Versions\Optimized for TV
+[]
+The Departed (2006).24583.eng.srt
+The Departed (2006).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Family Man (2000)
+[]
+Deleted Scenes-deleted.mkv
+Music Video with Seal-behindthescenes.mkv
+Outakes-behindthescenes.mkv
+The Family Man (2000) Bluray-720p.1.en.srt
+The Family Man (2000) Bluray-720p.mp4
+The Family Man-trailer.mkv
+The Making Of-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Fighter (2010)
+[]
+The Fighter (2010) - Behind The Scenes-behindthescenes.mkv
+The Fighter (2010) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Fortune Cookie (1966)
+[]
+The Fortune Cookie (1966).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Fountain (2006)
+[]
+The Fountain (2006).mkv
+The Fountain-trailer.mkv
+THE_FOUNTAIN_t02-scene.mkv
+THE_FOUNTAIN_t03-scene.mkv
+THE_FOUNTAIN_t04-scene.mkv
+THE_FOUNTAIN_t05-scene.mkv
+THE_FOUNTAIN_t06-scene.mkv
+THE_FOUNTAIN_t07-scene.mkv
+THE_FOUNTAIN_t08-scene.mkv
+THE_FOUNTAIN_t09-scene.mkv
+THE_FOUNTAIN_t10-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Godfather (1972)
+[]
+The Godfather Bonus-behindthescenes.mkv
+The Godfather-behindthescenes.mkv
+The Godfather-interview.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Gods Must Be Crazy (1980)
+[]
+The Gods Must Be Crazy (1980).mkv
+The_Gods_Must_Be_Crazy_t00-scene.mkv
+The_Gods_Must_Be_Crazy_t02-scene.mkv
+The_Gods_Must_Be_Crazy_t03-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Good Shepherd (2006)
+[]
+The Good Shepherd (2006).mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Goonies (1985)
+[]
+The Goonies (1985) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Great Gatsby (2013)
+[]
+The Great Gatsby (2013) - Behind The Scenes-behindthescenes.mkv
+The Great Gatsby (2013).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Hangover (2009)
+[]
+The Hangover (2009) - Behind The Scenes-behindthescenes.mkv
+The Hangover (2009) WEBDL-2160p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Heartbreak Kid (1972)
+[]
+The Heartbreak Kid (1972) DVD.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Help (2011)
+['Plex Versions']
+The Help (2011).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Help (2011)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Help (2011)\Plex Versions\Optimized for TV
+[]
+The Help (2011).24518.eng.srt
+The Help (2011).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Hobbit The Desolation of Smaug (2013)
+[]
+Behind The Scenes-behindthescenes.mkv
+The Hobbit The Desolation of Smaug (2013) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Hunt for Red October (1990)
+[]
+The Hunt for Red October (1990).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Imitation Game (2014)
+[]
+The Imitation Game (2014) - Behind The Scenes-behindthescenes.mkv
+The Imitation Game (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Incredible Hulk (2008)
+[]
+The Incredible Hulk (2008) Bluray-720p.mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Incredibles (2004)
+[]
+Animated Short_Bounding-scene.mkv
+Animated Short_Jack Jack Attack-scene.mkv
+Buttons and Doors-behindthescenes.mkv
+Deleted Scenes Intro-deleted.mkv
+Deleted_Alternate Opening-deleted.mkv
+Deleted_Bob In Traffic-deleted.mkv
+Deleted_Helen Confronts Bob-deleted.mkv
+Deleted_Snug Gets Killed-deleted.mkv
+Deleted_The Vipers-deleted.mkv
+Interviews with Super Heros-interview.mkv
+Making Of The Incredibles-behindthescenes.mkv
+Making_Building Extras-behindthescenes.mkv
+Making_Building Humans-behindthescenes.mkv
+Making_Character Design-behindthescenes.mkv
+Making_Lighting-behindthescenes.mkv
+Making_Music-behindthescenes.mkv
+Making_Set Design-behindthescenes.mkv
+Making_Sound-behindthescenes.mkv
+Making_Tools-behindthescenes.mkv
+Sarah Vowellet Essay-behindthescenes.mkv
+Secret File on E-behindthescenes.mkv
+The Incredibles (2004).mkv
+The Story-behindthescenes.mkv
+Who is Bud Lucky-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Informant! (2009)
+[]
+The Informant! (2009) Bluray-1080p.mkv
+Unltitled Extra 01-behindthescenes.mkv
+Unltitled Extra 02-behindthescenes.mkv
+Unltitled Extra 03-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Jungle Book (1967)
+[]
+The Jungle Book (1967) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Last Detail (1973)
+[]
+The Last Detail (1973).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Last Waltz (1978)
+[]
+The Last Waltz (1978) Bluray-720p.mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Lion King 2 Simba's Pride (1998)
+[]
+The Lion King 2 Simba's Pride (1998) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Little Mermaid (1989)
+[]
+The Little Mermaid (1989) DVD.avi
+title01-scene.mkv
+title02-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy
+['The Fellowship of the Ring (2001)', 'The Return of the King (2003)', 'The Two Towers (2002)']
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy\The Fellowship of the Ring (2001)
+[]
+The Fellowship of the Ring (2001).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy\The Return of the King (2003)
+[]
+The Return of the King (2003).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Lord of the Rings Trilogy\The Two Towers (2002)
+[]
+The Two Towers (2002).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Manchurian Candidate (1962)
+[]
+The Manchurian Candidate (1962) Bluray-1080p.mkv
+The Manchurian Candidate (1962) Bluray-1080p.nfo
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Martian (2015)
+['Plex Versions']
+The Martian (2015) WEBDL-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Martian (2015)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Martian (2015)\Plex Versions\Optimized for TV
+[]
+The Martian (2015).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Matador (2005)
+[]
+The Matador (2005).mkv
+title00-scene.mkv
+title01-scene.mkv
+title02-scene.mkv
+title03-scene.mkv
+title04-scene.mkv
+title05-scene.mkv
+title07-scene.mkv
+title08-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Meaning of Life (1983)
+[]
+The Meaning of Life (1983).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Polar Express (2004)
+[]
+El Espresso Esta Muy Frio-behindthescenes.mkv
+The Polar Express (2004) Bluray-1080p.mkv
+THE_POLAR_EXPRESS_DISC_2_t00-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t01-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t02-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t03-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t04-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t05-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t06-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t07-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t08-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t09-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t10-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t11-scene.mkv
+THE_POLAR_EXPRESS_DISC_2_t12-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Princess Bride (1987)
+['Plex Versions']
+The Princess Bride (1987).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Princess Bride (1987)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\The Princess Bride (1987)\Plex Versions\Optimized for TV
+[]
+The Princess Bride (1987).24538.eng.srt
+The Princess Bride (1987).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Right Stuff (1983)
+[]
+The Right Stuff (1983).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Secret (2006)
+[]
+The Secret (2006).mkv
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+Untitled Extra 05-behindthescenes.mkv
+Untitled Extra 06-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Snowman (1982)
+[]
+The Snowman (1982).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Social Network (2010)
+[]
+The Social Network (2010) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Soloist (2009)
+[]
+An Unlikely Friendship-behindthescenes.mkv
+Ayers and Lopez-interview.mkv
+Beths Story-interview.mkv
+Deleted Scenes-deleted.mkv
+Homelessnes in LA-behindthescenes.mkv
+More Deleted Scenes-deleted.mkv
+More Scenese-deleted.mkv
+The Soloist (2009).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Town (2010)
+[]
+The Town (2010).mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Verdict (1982)
+[]
+The Verdict (1982) Bluray-1080p.mkv
+Unltitled Extra 01-behindthescenes.mkv
+Unltitled Extra 02-behindthescenes.mkv
+Unltitled Extra 03-behindthescenes.mkv
+Unltitled Extra 04-behindthescenes.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Walk (2015)
+[]
+The Walk (2015).mp4
+--------------------------------
+S:\MyMedia2\mkv2\The Water Horse (2007)
+[]
+The Water Horse (2007)-scene.mkv
+Water_Horse_Legend_of_the_Deep_t01-scene.mkv
+--------------------------------
+S:\MyMedia2\mkv2\The Wrong Trousers (1993)
+[]
+Making The Wrong Trousers-behindthescenes.mkv
+Nicks First Short-behindthescenes.mkv
+The Wrong Trousers (1993) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\Theory Of Everything (2014)
+[]
+Theory Of Everything (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\This Is Spinal Tap (1984)
+[]
+Deleted Scenes-deleted.mkv
+This Is Spinal Tap (1984) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Thomas Jefferson (1997)
+[]
+Thomas Jefferson (1997) - part1.mkv
+Thomas Jefferson (1997) - part2.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Time Bandits (1981)
+[]
+Time Bandits (1981) Bluray-720p.mkv
+Time Bandits (1981).mkv
+--------------------------------
+S:\MyMedia2\mkv2\True Grit (2010)
+[]
+True Grit (2010).mkv
+--------------------------------
+S:\MyMedia2\mkv2\True Lies (1994)
+[]
+True Lies (1994) Bluray-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\U Turn (1997)
+[]
+U Turn (1997).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Unbroken (2014)
+['Plex Versions']
+Unbroken (2014) WEBDL-1080p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Unbroken (2014)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Unbroken (2014)\Plex Versions\Optimized for TV
+[]
+Unbroken (2014).55728.eng.srt
+Unbroken (2014).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)
+['Plex Versions']
+Behind The Scenes-behindthescenes.mkv
+Interview 1-interview.mkv
+Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004) - disc1.mkv
+Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004) - disc2.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Unforgivable Blackness The Rise And Fall Of Jack Johnson (2004)\Plex Versions\Optimized for TV
+[]
+Unforgivable Blackness the Rise and Fall of Jack Johnson (1900).mp4
+--------------------------------
+S:\MyMedia2\mkv2\W. (2008)
+[]
+Untitled Extra 01-behindthescenes.mkv
+Untitled Extra 02-behindthescenes.mkv
+Untitled Extra 03-behindthescenes.mkv
+Untitled Extra 04-behindthescenes.mkv
+W. (2008) Bluray-720p.mkv
+--------------------------------
+S:\MyMedia2\mkv2\Wallace & Gromit The Curse of the Were-Rabbit (2005)
+[]
+Alternatives-deleted.mkv
+History of Wallace and Grommit-behindthescenes.mkv
+Stage Fright Extra-behindthescenes.mkv
+Studio Tour-behindthescenes.mkv
+The Making Of Curse of the Were-Rabbit-behindthescenes.mkv
+Wallace & Gromit The Curse of the Were-Rabbit (2005) Bluray-1080p.mp4
+--------------------------------
+S:\MyMedia2\mkv2\WC Fields_ 6 Short Films (2000)
+[]
+poster.jpg
+WC Fields_ 6 Short Films (2000) - disc1.mkv
+WC Fields_ 6 Short Films (2000) - disc2.mkv
+--------------------------------
+S:\MyMedia2\mkv2\West Side Story (1961)
+['Plex Versions']
+West Side Story (1961) WEBDL-1080p.mkv
+West Side Story-trailer.mkv
+--------------------------------
+S:\MyMedia2\mkv2\West Side Story (1961)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\West Side Story (1961)\Plex Versions\Optimized for TV
+[]
+West Side Story (1961).59321.eng.srt
+West Side Story (1961).59322.eng.srt
+West Side Story (1961).59323.fre.srt
+West Side Story (1961).59324.fre.srt
+West Side Story (1961).59325.spa.srt
+West Side Story (1961).59326.spa.srt
+West Side Story (1961).59327.chi.srt
+West Side Story (1961).59328.chi.srt
+West Side Story (1961).59329.dan.srt
+West Side Story (1961).59330.ger.srt
+West Side Story (1961).59331.gre.srt
+West Side Story (1961).59332.spa.srt
+West Side Story (1961).59333.fin.srt
+West Side Story (1961).59334.heb.srt
+West Side Story (1961).59335.hun.srt
+West Side Story (1961).59336.ita.srt
+West Side Story (1961).59337.kor.srt
+West Side Story (1961).59338.dut.srt
+West Side Story (1961).59339.nor.srt
+West Side Story (1961).59340.pol.srt
+West Side Story (1961).59341.por.srt
+West Side Story (1961).59342.por.srt
+West Side Story (1961).59343.rus.srt
+West Side Story (1961).59344.swe.srt
+West Side Story (1961).59345.tha.srt
+West Side Story (1961).59346.tur.srt
+West Side Story (1961).59347.chi.srt
+West Side Story (1961).mp4
+--------------------------------
+S:\MyMedia2\mkv2\Whats Up Tiger Lily (1966)
+[]
+Tiger_Lily-scene.mkv
+Whats Up Tiger Lily (1966).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Whiplash (2014)
+['Plex Versions']
+Whiplash (2014).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Whiplash (2014)\Plex Versions
+['Optimized for TV']
+--------------------------------
+S:\MyMedia2\mkv2\Whiplash (2014)\Plex Versions\Optimized for TV
+[]
+Whiplash (2014).24622.eng.srt
+Whiplash (2014).mp4
+--------------------------------
+S:\MyMedia2\mkv2\White House Down (2013)
+[]
+White House Down (2013).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Willie Nelson - Live & Kickin' (2003)
+[]
+cover.jpg
+poster.jpg
+Willie_Nelson-behindthescenes.mkv
+Willie_Nelson-Live_N_Kickin (2003).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Witness For The Prosecution (1957)
+[]
+Witness For The Prosecution (1957).mkv
+--------------------------------
+S:\MyMedia2\mkv2\Wolf Of Wall Street (2013)
+[]
+Wolf Of Wall Street (2013).mkv
+--------------------------------
+
